@@ -1,0 +1,82 @@
+$brandColor: #B61E2D;
+
+$grisNegro: #231F20;
+$grisMasOscuro: #404041;
+$grisOscuro: #58595B;
+$grisMedio: #6D6E70;
+$grisClaro: #C8CACB;
+$grisMasClaro: #E6E5E4;
+$grisBlanco: #ECEBE8;
+
+$rojo: #B61E2D;
+$rojoClaro: #D13646;
+$rojoOscuro:#93242D;
+$verde: #3CB5A9;
+$verdeClaro: #4AD4C5;
+$verdeOscuro:#027977;
+$azul: #4E8BC7;
+$azulClaro: #5EA3E6;
+$azulOscuro:#33699B;
+$amarillo: #fcd700;
+
+$sans-stack: "Open Sans", Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+$serif-stack: Georgia, Constantia, "DejaVu Serif", serif;
+$display-stack: 'Lato', Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans-serif;
+
+.brandColor{color:$brandColor;}
+.brandColor-bg{background-color: $brandColor;}
+
+.grisNegro{color:$grisNegro;}
+.grisNegro-bg{background-color:$grisNegro;}
+.grisMasOscuro{color:$grisMasOscuro;}
+.grisMasOscuro-bg{background-color:$grisMasOscuro;}
+.grisOscuro{color:$grisOscuro;}
+.grisOscuro-bg{background-color:$grisOscuro;}
+.grisMedio{color:$grisMedio;}
+.grisMedio-bg{background-color:$grisMedio;}
+.grisClaro{color:$grisClaro;}
+.grisClaro-bg{background-color:$grisClaro;}
+.grisMasClaro{color:$grisMasClaro;}
+.grisMasClaro-bg{background-color:$grisMasClaro;}
+.grisBlanco{color:$grisBlanco;}
+.grisBlanco-bg{background-color:$grisBlanco;}
+
+.amarillo{color:$amarillo;}
+.amarillo-bg{background-color: $amarillo;}
+
+.rojo{color:$rojo;}
+.rojo-bg{background-color:$rojo;}
+.rojoClaro{color:$rojoClaro;}
+.rojoClaro-bg{background-color:$rojoClaro;}
+.rojoOscuro{color:$rojoOscuro;}
+.rojoOscuro-bg{background-color:$rojoOscuro;}
+.verde{color:$verde;}
+.verde-bg{background-color:$verde;}
+.verdeClaro{color:$verdeClaro;}
+.verdeClaro-bg{background-color:$verdeClaro;}
+.verdeOscuro{color:$verdeOscuro;}
+.verdeOscuro-bg{background-color:$verdeOscuro;}
+.azul{color:$azul;}
+.azul-bg{background-color:$azul;}
+.azulClaro{color:$azulClaro;}
+.azulClaro-bg{background-color:$azulClaro;}
+.azulOscuro{color:$azulOscuro;}
+.azulOscuro-bg{background-color:$azulOscuro;}
+
+
+.sans{
+	font-family: $sans-stack;
+}
+.serif{
+	font-family: $serif-stack;
+}
+.display{
+	font-family: $display-stack;
+}
+
+.light{
+	font-weight: 300;
+}
+.semi-bold{
+	font-weight: 600;
+}

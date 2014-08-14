@@ -1,0 +1,29 @@
+
+@import url(http://fonts.googleapis.com/css?family=Lato|Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700);
+
+@import "brand";// ←---Here be vars
+@import "normalize";
+@import "mejoras-1";
+@import "mejoras-2";
+@import "mejoras-3";
+
+$gridGutter:16px;
+$anchoDefault:970px;
+$anchoWide:1140px;
+$anchoMinimo:776px;
+
+@import "simplegrid";
+@import "forms";
+
+
+.wrapper{
+	max-width: $anchoDefault;
+	margin: 0 auto;
+	&.wide{
+		max-width: $anchoWide;
+	}	
+}
+
+@media print {
+	
+}
