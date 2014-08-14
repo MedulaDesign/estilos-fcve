@@ -988,78 +988,78 @@ body {
   .button.rojo, button.rojo, input[type=button].rojo, input[type=submit].rojo {
     color: white;
     background: #D13646;
-    background: -webkit-gradient(linear, left top, left bottom, from(#D13646), to(#D13646));
-    background: -webkit-linear-gradient(top, #D13646 0%, #D13646 100%);
-    background: linear-gradient(top, #D13646 0%, #D13646 100%);
+    background: -webkit-gradient(linear, left top, left bottom, from(#D13646), to(#B61E2D));
+    background: -webkit-linear-gradient(top, #D13646 0%, #B61E2D 100%);
+    background: linear-gradient(top, #D13646 0%, #B61E2D 100%);
     text-shadow: 1px 1px 2px black;
     border-color: #93242D; }
     .button.rojo:link, .button.rojo:visited, button.rojo:link, button.rojo:visited, input[type=button].rojo:link, input[type=button].rojo:visited, input[type=submit].rojo:link, input[type=submit].rojo:visited {
       color: white;
-      background: -webkit-gradient(linear, left top, left bottom, from(#D13646), to(#D13646));
-      background: -webkit-linear-gradient(top, #D13646 0%, #D13646 100%);
-      background: linear-gradient(top, #D13646 0%, #D13646 100%); }
+      background: -webkit-gradient(linear, left top, left bottom, from(#D13646), to(#B61E2D));
+      background: -webkit-linear-gradient(top, #D13646 0%, #B61E2D 100%);
+      background: linear-gradient(top, #D13646 0%, #B61E2D 100%); }
     .button.rojo:hover, button.rojo:hover, input[type=button].rojo:hover, input[type=submit].rojo:hover {
       color: #DDD;
-      background: #D13646;
-      background: -webkit-gradient(linear, left bottom, left top, from(#D13646), to(#D13646));
-      background: -webkit-linear-gradient(bottom, #D13646 0%, #D13646 100%);
-      background: linear-gradient(bottom, #D13646 0%, #D13646 100%); }
+      background: #B61E2D;
+      background: -webkit-gradient(linear, left bottom, left top, from(#D13646), to(#B61E2D));
+      background: -webkit-linear-gradient(bottom, #D13646 0%, #B61E2D 100%);
+      background: linear-gradient(bottom, #D13646 0%, #B61E2D 100%); }
     .button.rojo:active, button.rojo:active, input[type=button].rojo:active, input[type=submit].rojo:active {
       color: white;
       background: #93242D;
-      background: -webkit-gradient(linear, left top, left bottom, from(#D13646), to(#93242D));
-      background: -webkit-linear-gradient(top, #D13646 0%, #93242D 100%);
-      background: linear-gradient(top, #D13646 0%, #93242D 100%); }
+      background: -webkit-gradient(linear, left top, left bottom, from(#B61E2D), to(#93242D));
+      background: -webkit-linear-gradient(top, #B61E2D 0%, #93242D 100%);
+      background: linear-gradient(top, #B61E2D 0%, #93242D 100%); }
   .button.verde, button.verde, input[type=button].verde, input[type=submit].verde {
     color: white;
     background: #4AD4C5;
-    background: -webkit-gradient(linear, left top, left bottom, from(#4AD4C5), to(#4AD4C5));
-    background: -webkit-linear-gradient(top, #4AD4C5 0%, #4AD4C5 100%);
-    background: linear-gradient(top, #4AD4C5 0%, #4AD4C5 100%);
+    background: -webkit-gradient(linear, left top, left bottom, from(#4AD4C5), to(#3CB5A9));
+    background: -webkit-linear-gradient(top, #4AD4C5 0%, #3CB5A9 100%);
+    background: linear-gradient(top, #4AD4C5 0%, #3CB5A9 100%);
     text-shadow: 1px 1px 2px black;
     border-color: #027977; }
     .button.verde:link, .button.verde:visited, button.verde:link, button.verde:visited, input[type=button].verde:link, input[type=button].verde:visited, input[type=submit].verde:link, input[type=submit].verde:visited {
       color: white;
-      background: -webkit-gradient(linear, left top, left bottom, from(#4AD4C5), to(#4AD4C5));
-      background: -webkit-linear-gradient(top, #4AD4C5 0%, #4AD4C5 100%);
-      background: linear-gradient(top, #4AD4C5 0%, #4AD4C5 100%); }
+      background: -webkit-gradient(linear, left top, left bottom, from(#4AD4C5), to(#3CB5A9));
+      background: -webkit-linear-gradient(top, #4AD4C5 0%, #3CB5A9 100%);
+      background: linear-gradient(top, #4AD4C5 0%, #3CB5A9 100%); }
     .button.verde:hover, button.verde:hover, input[type=button].verde:hover, input[type=submit].verde:hover {
       color: #DDD;
-      background: #4AD4C5;
-      background: -webkit-gradient(linear, left bottom, left top, from(#4AD4C5), to(#4AD4C5));
-      background: -webkit-linear-gradient(bottom, #4AD4C5 0%, #4AD4C5 100%);
-      background: linear-gradient(bottom, #4AD4C5 0%, #4AD4C5 100%); }
+      background: #3CB5A9;
+      background: -webkit-gradient(linear, left bottom, left top, from(#4AD4C5), to(#3CB5A9));
+      background: -webkit-linear-gradient(bottom, #4AD4C5 0%, #3CB5A9 100%);
+      background: linear-gradient(bottom, #4AD4C5 0%, #3CB5A9 100%); }
     .button.verde:active, button.verde:active, input[type=button].verde:active, input[type=submit].verde:active {
       color: white;
       background: #027977;
-      background: -webkit-gradient(linear, left top, left bottom, from(#4AD4C5), to(#027977));
-      background: -webkit-linear-gradient(top, #4AD4C5 0%, #027977 100%);
-      background: linear-gradient(top, #4AD4C5 0%, #027977 100%); }
+      background: -webkit-gradient(linear, left top, left bottom, from(#3CB5A9), to(#027977));
+      background: -webkit-linear-gradient(top, #3CB5A9 0%, #027977 100%);
+      background: linear-gradient(top, #3CB5A9 0%, #027977 100%); }
   .button.azul, button.azul, input[type=button].azul, input[type=submit].azul {
     color: white;
     background: #5EA3E6;
-    background: -webkit-gradient(linear, left top, left bottom, from(#5EA3E6), to(#5EA3E6));
-    background: -webkit-linear-gradient(top, #5EA3E6 0%, #5EA3E6 100%);
-    background: linear-gradient(top, #5EA3E6 0%, #5EA3E6 100%);
+    background: -webkit-gradient(linear, left top, left bottom, from(#5EA3E6), to(#4E8BC7));
+    background: -webkit-linear-gradient(top, #5EA3E6 0%, #4E8BC7 100%);
+    background: linear-gradient(top, #5EA3E6 0%, #4E8BC7 100%);
     text-shadow: 1px 1px 2px black;
     border-color: #33699B; }
     .button.azul:link, .button.azul:visited, button.azul:link, button.azul:visited, input[type=button].azul:link, input[type=button].azul:visited, input[type=submit].azul:link, input[type=submit].azul:visited {
       color: white;
-      background: -webkit-gradient(linear, left top, left bottom, from(#5EA3E6), to(#5EA3E6));
-      background: -webkit-linear-gradient(top, #5EA3E6 0%, #5EA3E6 100%);
-      background: linear-gradient(top, #5EA3E6 0%, #5EA3E6 100%); }
+      background: -webkit-gradient(linear, left top, left bottom, from(#5EA3E6), to(#4E8BC7));
+      background: -webkit-linear-gradient(top, #5EA3E6 0%, #4E8BC7 100%);
+      background: linear-gradient(top, #5EA3E6 0%, #4E8BC7 100%); }
     .button.azul:hover, button.azul:hover, input[type=button].azul:hover, input[type=submit].azul:hover {
       color: #DDD;
-      background: #5EA3E6;
-      background: -webkit-gradient(linear, left bottom, left top, from(#5EA3E6), to(#5EA3E6));
-      background: -webkit-linear-gradient(bottom, #5EA3E6 0%, #5EA3E6 100%);
-      background: linear-gradient(bottom, #5EA3E6 0%, #5EA3E6 100%); }
+      background: #4E8BC7;
+      background: -webkit-gradient(linear, left bottom, left top, from(#5EA3E6), to(#4E8BC7));
+      background: -webkit-linear-gradient(bottom, #5EA3E6 0%, #4E8BC7 100%);
+      background: linear-gradient(bottom, #5EA3E6 0%, #4E8BC7 100%); }
     .button.azul:active, button.azul:active, input[type=button].azul:active, input[type=submit].azul:active {
       color: white;
       background: #33699B;
-      background: -webkit-gradient(linear, left top, left bottom, from(#5EA3E6), to(#33699B));
-      background: -webkit-linear-gradient(top, #5EA3E6 0%, #33699B 100%);
-      background: linear-gradient(top, #5EA3E6 0%, #33699B 100%); }
+      background: -webkit-gradient(linear, left top, left bottom, from(#4E8BC7), to(#33699B));
+      background: -webkit-linear-gradient(top, #4E8BC7 0%, #33699B 100%);
+      background: linear-gradient(top, #4E8BC7 0%, #33699B 100%); }
   .button.amarillo, button.amarillo, input[type=button].amarillo, input[type=submit].amarillo {
     color: #333;
     background: #fcd700;

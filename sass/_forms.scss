@@ -29,18 +29,18 @@
  */
 
 
-$rojo:$rojoClaro;
-$rojoMasOscuro: $rojo;
-$rojoMasMasOscuro: $rojoOscuro;
-$verde:$verdeClaro;
-$verdeMasOscuro: $verde;
-$verdeMasMasOscuro: $verdeOscuro;
-$azul:$azulClaro;
-$azulMasOscuro: $azul;
-$azulMasMasOscuro: $azulOscuro;
-$amarillo:$amarillo;
-$amarilloMasOscuro: #DFBE00;
-$amarilloMasMasOscuro: #B39800;
+$rojoF:$rojoClaro;
+$rojoFMasOscuro: $rojo;
+$rojoFMasMasOscuro: $rojoOscuro;
+$verdeF:$verdeClaro;
+$verdeFMasOscuro: $verde;
+$verdeFMasMasOscuro: $verdeOscuro;
+$azulF:$azulClaro;
+$azulFMasOscuro: $azul;
+$azulFMasMasOscuro: $azulOscuro;
+$amarilloF:$amarillo;
+$amarilloFMasOscuro: #DFBE00;
+$amarilloFMasMasOscuro: #B39800;
 $oscuro:$grisOscuro;
 $oscuroMasOscuro: $grisMasOscuro;
 $oscuroMasMasOscuro: $grisNegro;
@@ -83,86 +83,86 @@ input[type=submit]{
 	}
 	&.rojo{
 		color: white;
-		background: $rojo;
-		background: linear-gradient(top, $rojo 0%, $rojoMasOscuro 100%);
+		background: $rojoF;
+		background: linear-gradient(top, $rojoF 0%, $rojoFMasOscuro 100%);
 		text-shadow: 1px 1px 2px black;
-		border-color: $rojoMasMasOscuro;
+		border-color: $rojoFMasMasOscuro;
 		&:link, &:visited{
 			color:white;
-			background: linear-gradient(top, $rojo 0%, $rojoMasOscuro 100%);
+			background: linear-gradient(top, $rojoF 0%, $rojoFMasOscuro 100%);
 		}
 		&:hover{
 			color: #DDD;
-			background: $rojoMasOscuro;
-			background: linear-gradient(bottom, $rojo 0%, $rojoMasOscuro 100%);
+			background: $rojoFMasOscuro;
+			background: linear-gradient(bottom, $rojoF 0%, $rojoFMasOscuro 100%);
 		}
 		&:active{
 			color: white;
-			background: $rojoMasMasOscuro;
-			background: linear-gradient(top, $rojoMasOscuro 0%, $rojoMasMasOscuro 100%);
+			background: $rojoFMasMasOscuro;
+			background: linear-gradient(top, $rojoFMasOscuro 0%, $rojoFMasMasOscuro 100%);
 		}
 	}
 	&.verde{
 		color: white;
-		background: $verde;
-		background: linear-gradient(top, $verde 0%, $verdeMasOscuro 100%);
+		background: $verdeF;
+		background: linear-gradient(top, $verdeF 0%, $verdeFMasOscuro 100%);
 		text-shadow: 1px 1px 2px black;
-		border-color: $verdeMasMasOscuro;
+		border-color: $verdeFMasMasOscuro;
 		&:link, &:visited{
 			color:white;
-			background: linear-gradient(top, $verde 0%, $verdeMasOscuro 100%);
+			background: linear-gradient(top, $verdeF 0%, $verdeFMasOscuro 100%);
 		}
 		&:hover{
 			color: #DDD;
-			background: $verdeMasOscuro;
-			background: linear-gradient(bottom, $verde 0%, $verdeMasOscuro 100%);
+			background: $verdeFMasOscuro;
+			background: linear-gradient(bottom, $verdeF 0%, $verdeFMasOscuro 100%);
 		}
 		&:active{
 			color: white;
-			background: $verdeMasMasOscuro;
-			background: linear-gradient(top, $verdeMasOscuro 0%, $verdeMasMasOscuro 100%);
+			background: $verdeFMasMasOscuro;
+			background: linear-gradient(top, $verdeFMasOscuro 0%, $verdeFMasMasOscuro 100%);
 		}
 	}
 	&.azul{
 		color: white;
-		background: $azul;
-		background: linear-gradient(top, $azul 0%, $azulMasOscuro 100%);
+		background: $azulF;
+		background: linear-gradient(top, $azulF 0%, $azulFMasOscuro 100%);
 		text-shadow: 1px 1px 2px black;
-		border-color: $azulMasMasOscuro;
+		border-color: $azulFMasMasOscuro;
 		&:link, &:visited{
 			color:white;
-			background: linear-gradient(top, $azul 0%, $azulMasOscuro 100%);
+			background: linear-gradient(top, $azulF 0%, $azulFMasOscuro 100%);
 		}
 		&:hover{
 			color: #DDD;
-			background: $azulMasOscuro;
-			background: linear-gradient(bottom, $azul 0%, $azulMasOscuro 100%);
+			background: $azulFMasOscuro;
+			background: linear-gradient(bottom, $azulF 0%, $azulFMasOscuro 100%);
 		}
 		&:active{
 			color: white;
-			background: $azulMasMasOscuro;
-			background: linear-gradient(top, $azulMasOscuro 0%, $azulMasMasOscuro 100%);
+			background: $azulFMasMasOscuro;
+			background: linear-gradient(top, $azulFMasOscuro 0%, $azulFMasMasOscuro 100%);
 		}
 	}
 	&.amarillo{
 		color: #333;
-		background: $amarillo;
-		background: linear-gradient(top, $amarillo 0%, $amarilloMasOscuro 100%);
+		background: $amarilloF;
+		background: linear-gradient(top, $amarilloF 0%, $amarilloFMasOscuro 100%);
 		text-shadow: -1px -1px 1px white;
-		border-color: $amarilloMasMasOscuro;
+		border-color: $amarilloFMasMasOscuro;
 		&:link, &:visited{
 			color:#333;
-			background: linear-gradient(top, $amarillo 0%, $amarilloMasOscuro 100%);
+			background: linear-gradient(top, $amarilloF 0%, $amarilloFMasOscuro 100%);
 		}
 		&:hover{
 			color: black;
-			background: $amarilloMasOscuro;
-			background: linear-gradient(bottom, $amarillo 0%, $amarilloMasOscuro 100%);
+			background: $amarilloFMasOscuro;
+			background: linear-gradient(bottom, $amarilloF 0%, $amarilloFMasOscuro 100%);
 		}
 		&:active{
 			color: black;
-			background: $amarilloMasMasOscuro;
-			background: linear-gradient(top, $amarilloMasOscuro 0%, $amarilloMasMasOscuro 100%);
+			background: $amarilloFMasMasOscuro;
+			background: linear-gradient(top, $amarilloFMasOscuro 0%, $amarilloFMasMasOscuro 100%);
 		}
 	}
 	&.oscuro{
@@ -231,7 +231,7 @@ input[type="number"],
 	color: $grisNegro;
 	margin: 5px;
 	&.error, .error &{
-		border: 1px solid $rojo;
+		border: 1px solid $rojoF;
 	}
 }
 input[type="search"] {
@@ -310,7 +310,7 @@ form, fieldset, .tipoForm{
 				margin-top:0;
 			}
 			&.form-focus {
-				background-color: $verde;
+				background-color: $verdeF;
 				color: black;
 				label{
 					color: white;
