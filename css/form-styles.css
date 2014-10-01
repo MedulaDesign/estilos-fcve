@@ -1,0 +1,565 @@
+/* line 33, c:\htdocs\cve\sass\/brand */
+.brandColor {
+  color: #B61E2D; }
+
+/* line 34, c:\htdocs\cve\sass\/brand */
+.brandColor-bg {
+  background-color: #B61E2D; }
+
+/* line 36, c:\htdocs\cve\sass\/brand */
+.grisNegro {
+  color: #231F20; }
+
+/* line 37, c:\htdocs\cve\sass\/brand */
+.grisNegro-bg {
+  background-color: #231F20; }
+
+/* line 38, c:\htdocs\cve\sass\/brand */
+.grisMasOscuro {
+  color: #404041; }
+
+/* line 39, c:\htdocs\cve\sass\/brand */
+.grisMasOscuro-bg {
+  background-color: #404041; }
+
+/* line 40, c:\htdocs\cve\sass\/brand */
+.grisOscuro {
+  color: #58595B; }
+
+/* line 41, c:\htdocs\cve\sass\/brand */
+.grisOscuro-bg {
+  background-color: #58595B; }
+
+/* line 42, c:\htdocs\cve\sass\/brand */
+.grisMedio {
+  color: #6D6E70; }
+
+/* line 43, c:\htdocs\cve\sass\/brand */
+.grisMedio-bg {
+  background-color: #6D6E70; }
+
+/* line 44, c:\htdocs\cve\sass\/brand */
+.grisClaro {
+  color: #C8CACB; }
+
+/* line 45, c:\htdocs\cve\sass\/brand */
+.grisClaro-bg {
+  background-color: #C8CACB; }
+
+/* line 46, c:\htdocs\cve\sass\/brand */
+.grisMasClaro {
+  color: #E6E5E4; }
+
+/* line 47, c:\htdocs\cve\sass\/brand */
+.grisMasClaro-bg {
+  background-color: #E6E5E4; }
+
+/* line 48, c:\htdocs\cve\sass\/brand */
+.grisBlanco {
+  color: #ECEBE8; }
+
+/* line 49, c:\htdocs\cve\sass\/brand */
+.grisBlanco-bg {
+  background-color: #ECEBE8; }
+
+/* line 51, c:\htdocs\cve\sass\/brand */
+.amarillo {
+  color: #fcd700; }
+
+/* line 52, c:\htdocs\cve\sass\/brand */
+.amarillo-bg {
+  background-color: #fcd700; }
+
+/* line 54, c:\htdocs\cve\sass\/brand */
+.rojo {
+  color: #B61E2D; }
+
+/* line 55, c:\htdocs\cve\sass\/brand */
+.rojo-bg {
+  background-color: #B61E2D; }
+
+/* line 56, c:\htdocs\cve\sass\/brand */
+.rojoClaro {
+  color: #D13646; }
+
+/* line 57, c:\htdocs\cve\sass\/brand */
+.rojoClaro-bg {
+  background-color: #D13646; }
+
+/* line 58, c:\htdocs\cve\sass\/brand */
+.rojoOscuro {
+  color: #B61E2D; }
+
+/* line 59, c:\htdocs\cve\sass\/brand */
+.rojoOscuro-bg {
+  background-color: #B61E2D; }
+
+/* line 60, c:\htdocs\cve\sass\/brand */
+.verde {
+  color: #3CB5A9; }
+
+/* line 61, c:\htdocs\cve\sass\/brand */
+.verde-bg {
+  background-color: #3CB5A9; }
+
+/* line 62, c:\htdocs\cve\sass\/brand */
+.verdeClaro {
+  color: #4AD4C5; }
+
+/* line 63, c:\htdocs\cve\sass\/brand */
+.verdeClaro-bg {
+  background-color: #4AD4C5; }
+
+/* line 64, c:\htdocs\cve\sass\/brand */
+.verdeOscuro {
+  color: #027977; }
+
+/* line 65, c:\htdocs\cve\sass\/brand */
+.verdeOscuro-bg {
+  background-color: #027977; }
+
+/* line 66, c:\htdocs\cve\sass\/brand */
+.azul {
+  color: #4E8BC7; }
+
+/* line 67, c:\htdocs\cve\sass\/brand */
+.azul-bg {
+  background-color: #4E8BC7; }
+
+/* line 68, c:\htdocs\cve\sass\/brand */
+.azulClaro {
+  color: #5EA3E6; }
+
+/* line 69, c:\htdocs\cve\sass\/brand */
+.azulClaro-bg {
+  background-color: #5EA3E6; }
+
+/* line 70, c:\htdocs\cve\sass\/brand */
+.azulOscuro {
+  color: #33699B; }
+
+/* line 71, c:\htdocs\cve\sass\/brand */
+.azulOscuro-bg {
+  background-color: #33699B; }
+
+/* line 74, c:\htdocs\cve\sass\/brand */
+.sans {
+  font-family: "Open Sans", Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+/* line 77, c:\htdocs\cve\sass\/brand */
+.serif {
+  font-family: Georgia, Constantia, "DejaVu Serif", serif; }
+
+/* line 80, c:\htdocs\cve\sass\/brand */
+.display {
+  font-family: 'Lato', Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans-serif; }
+
+/* line 84, c:\htdocs\cve\sass\/brand */
+.light {
+  font-weight: 300; }
+
+/* line 87, c:\htdocs\cve\sass\/brand */
+.semi-bold {
+  font-weight: 600; }
+
+/**
+ * Estilos para elementos de formularios
+ **/
+/**
+
+888b.    8    8    88888    88888    .d88b.    8b  8    .d88b.
+8wwwP    8    8      8        8      8P  Y8    8Ybm8    YPwww.
+8   b    8b..d8      8        8      8b  d8    8  "8        d8
+888P'    `Y88P'      8        8      `Y88P'    8   8    `Y88P'
+
+ */
+/* line 51, c:\htdocs\cve\sass\/forms */
+.button, button, input[type=button], input[type=submit] {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  min-height: 38px;
+  display: inline-block;
+  vertical-align: top;
+  color: #404041;
+  border: 1px solid #777;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+  padding: 4px 24px;
+  background: #C8CACB;
+  background: -webkit-gradient(linear, left top, left bottom, from(#C8CACB), to(#E6E5E4));
+  background: -webkit-linear-gradient(top, #C8CACB 0%, #E6E5E4 100%);
+  background: linear-gradient(top, #C8CACB 0%, #E6E5E4 100%);
+  text-shadow: -1px -1px 1px white;
+  -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3); }
+  /* line 64, c:\htdocs\cve\sass\/forms */
+  .button:link, .button:visited, button:link, button:visited, input[type=button]:link, input[type=button]:visited, input[type=submit]:link, input[type=submit]:visited {
+    color: #404041;
+    background: -webkit-gradient(linear, left top, left bottom, from(#C8CACB), to(#E6E5E4));
+    background: -webkit-linear-gradient(top, #C8CACB 0%, #E6E5E4 100%);
+    background: linear-gradient(top, #C8CACB 0%, #E6E5E4 100%); }
+  /* line 68, c:\htdocs\cve\sass\/forms */
+  .button:hover, button:hover, input[type=button]:hover, input[type=submit]:hover {
+    color: black;
+    background: #E6E5E4;
+    background: -webkit-gradient(linear, left bottom, left top, from(#C8CACB), to(#E6E5E4));
+    background: -webkit-linear-gradient(bottom, #C8CACB 0%, #E6E5E4 100%);
+    background: linear-gradient(bottom, #C8CACB 0%, #E6E5E4 100%); }
+  /* line 73, c:\htdocs\cve\sass\/forms */
+  .button:active, button:active, input[type=button]:active, input[type=submit]:active {
+    color: #231F20;
+    background: #CCC;
+    background: -webkit-gradient(linear, left top, left bottom, from(white), to(#E6E5E4));
+    background: -webkit-linear-gradient(top, white 0%, #E6E5E4 100%);
+    background: linear-gradient(top, white 0%, #E6E5E4 100%); }
+  /* line 81, c:\htdocs\cve\sass\/forms */
+  .button.small, button.small, input[type=button].small, input[type=submit].small {
+    padding: 0 12px; }
+  /* line 84, c:\htdocs\cve\sass\/forms */
+  .button.rojo, button.rojo, input[type=button].rojo, input[type=submit].rojo {
+    color: white;
+    background: #D13646;
+    background: -webkit-gradient(linear, left top, left bottom, from(#D13646), to(#B61E2D));
+    background: -webkit-linear-gradient(top, #D13646 0%, #B61E2D 100%);
+    background: linear-gradient(top, #D13646 0%, #B61E2D 100%);
+    text-shadow: 1px 1px 2px black;
+    border-color: #B61E2D; }
+    /* line 90, c:\htdocs\cve\sass\/forms */
+    .button.rojo:link, .button.rojo:visited, button.rojo:link, button.rojo:visited, input[type=button].rojo:link, input[type=button].rojo:visited, input[type=submit].rojo:link, input[type=submit].rojo:visited {
+      color: white;
+      background: -webkit-gradient(linear, left top, left bottom, from(#D13646), to(#B61E2D));
+      background: -webkit-linear-gradient(top, #D13646 0%, #B61E2D 100%);
+      background: linear-gradient(top, #D13646 0%, #B61E2D 100%); }
+    /* line 94, c:\htdocs\cve\sass\/forms */
+    .button.rojo:hover, button.rojo:hover, input[type=button].rojo:hover, input[type=submit].rojo:hover {
+      color: #DDD;
+      background: #B61E2D;
+      background: -webkit-gradient(linear, left bottom, left top, from(#D13646), to(#B61E2D));
+      background: -webkit-linear-gradient(bottom, #D13646 0%, #B61E2D 100%);
+      background: linear-gradient(bottom, #D13646 0%, #B61E2D 100%); }
+    /* line 99, c:\htdocs\cve\sass\/forms */
+    .button.rojo:active, button.rojo:active, input[type=button].rojo:active, input[type=submit].rojo:active {
+      color: white;
+      background: #B61E2D;
+      background: -webkit-gradient(linear, left top, left bottom, from(#B61E2D), to(#B61E2D));
+      background: -webkit-linear-gradient(top, #B61E2D 0%, #B61E2D 100%);
+      background: linear-gradient(top, #B61E2D 0%, #B61E2D 100%); }
+  /* line 105, c:\htdocs\cve\sass\/forms */
+  .button.verde, button.verde, input[type=button].verde, input[type=submit].verde {
+    color: white;
+    background: #4AD4C5;
+    background: -webkit-gradient(linear, left top, left bottom, from(#4AD4C5), to(#3CB5A9));
+    background: -webkit-linear-gradient(top, #4AD4C5 0%, #3CB5A9 100%);
+    background: linear-gradient(top, #4AD4C5 0%, #3CB5A9 100%);
+    text-shadow: 1px 1px 2px black;
+    border-color: #027977; }
+    /* line 111, c:\htdocs\cve\sass\/forms */
+    .button.verde:link, .button.verde:visited, button.verde:link, button.verde:visited, input[type=button].verde:link, input[type=button].verde:visited, input[type=submit].verde:link, input[type=submit].verde:visited {
+      color: white;
+      background: -webkit-gradient(linear, left top, left bottom, from(#4AD4C5), to(#3CB5A9));
+      background: -webkit-linear-gradient(top, #4AD4C5 0%, #3CB5A9 100%);
+      background: linear-gradient(top, #4AD4C5 0%, #3CB5A9 100%); }
+    /* line 115, c:\htdocs\cve\sass\/forms */
+    .button.verde:hover, button.verde:hover, input[type=button].verde:hover, input[type=submit].verde:hover {
+      color: #DDD;
+      background: #3CB5A9;
+      background: -webkit-gradient(linear, left bottom, left top, from(#4AD4C5), to(#3CB5A9));
+      background: -webkit-linear-gradient(bottom, #4AD4C5 0%, #3CB5A9 100%);
+      background: linear-gradient(bottom, #4AD4C5 0%, #3CB5A9 100%); }
+    /* line 120, c:\htdocs\cve\sass\/forms */
+    .button.verde:active, button.verde:active, input[type=button].verde:active, input[type=submit].verde:active {
+      color: white;
+      background: #027977;
+      background: -webkit-gradient(linear, left top, left bottom, from(#3CB5A9), to(#027977));
+      background: -webkit-linear-gradient(top, #3CB5A9 0%, #027977 100%);
+      background: linear-gradient(top, #3CB5A9 0%, #027977 100%); }
+  /* line 126, c:\htdocs\cve\sass\/forms */
+  .button.azul, button.azul, input[type=button].azul, input[type=submit].azul {
+    color: white;
+    background: #5EA3E6;
+    background: -webkit-gradient(linear, left top, left bottom, from(#5EA3E6), to(#4E8BC7));
+    background: -webkit-linear-gradient(top, #5EA3E6 0%, #4E8BC7 100%);
+    background: linear-gradient(top, #5EA3E6 0%, #4E8BC7 100%);
+    text-shadow: 1px 1px 2px black;
+    border-color: #33699B; }
+    /* line 132, c:\htdocs\cve\sass\/forms */
+    .button.azul:link, .button.azul:visited, button.azul:link, button.azul:visited, input[type=button].azul:link, input[type=button].azul:visited, input[type=submit].azul:link, input[type=submit].azul:visited {
+      color: white;
+      background: -webkit-gradient(linear, left top, left bottom, from(#5EA3E6), to(#4E8BC7));
+      background: -webkit-linear-gradient(top, #5EA3E6 0%, #4E8BC7 100%);
+      background: linear-gradient(top, #5EA3E6 0%, #4E8BC7 100%); }
+    /* line 136, c:\htdocs\cve\sass\/forms */
+    .button.azul:hover, button.azul:hover, input[type=button].azul:hover, input[type=submit].azul:hover {
+      color: #DDD;
+      background: #4E8BC7;
+      background: -webkit-gradient(linear, left bottom, left top, from(#5EA3E6), to(#4E8BC7));
+      background: -webkit-linear-gradient(bottom, #5EA3E6 0%, #4E8BC7 100%);
+      background: linear-gradient(bottom, #5EA3E6 0%, #4E8BC7 100%); }
+    /* line 141, c:\htdocs\cve\sass\/forms */
+    .button.azul:active, button.azul:active, input[type=button].azul:active, input[type=submit].azul:active {
+      color: white;
+      background: #33699B;
+      background: -webkit-gradient(linear, left top, left bottom, from(#4E8BC7), to(#33699B));
+      background: -webkit-linear-gradient(top, #4E8BC7 0%, #33699B 100%);
+      background: linear-gradient(top, #4E8BC7 0%, #33699B 100%); }
+  /* line 147, c:\htdocs\cve\sass\/forms */
+  .button.amarillo, button.amarillo, input[type=button].amarillo, input[type=submit].amarillo {
+    color: #333;
+    background: #fcd700;
+    background: -webkit-gradient(linear, left top, left bottom, from(#fcd700), to(#DFBE00));
+    background: -webkit-linear-gradient(top, #fcd700 0%, #DFBE00 100%);
+    background: linear-gradient(top, #fcd700 0%, #DFBE00 100%);
+    text-shadow: -1px -1px 1px white;
+    border-color: #B39800; }
+    /* line 153, c:\htdocs\cve\sass\/forms */
+    .button.amarillo:link, .button.amarillo:visited, button.amarillo:link, button.amarillo:visited, input[type=button].amarillo:link, input[type=button].amarillo:visited, input[type=submit].amarillo:link, input[type=submit].amarillo:visited {
+      color: #333;
+      background: -webkit-gradient(linear, left top, left bottom, from(#fcd700), to(#DFBE00));
+      background: -webkit-linear-gradient(top, #fcd700 0%, #DFBE00 100%);
+      background: linear-gradient(top, #fcd700 0%, #DFBE00 100%); }
+    /* line 157, c:\htdocs\cve\sass\/forms */
+    .button.amarillo:hover, button.amarillo:hover, input[type=button].amarillo:hover, input[type=submit].amarillo:hover {
+      color: black;
+      background: #DFBE00;
+      background: -webkit-gradient(linear, left bottom, left top, from(#fcd700), to(#DFBE00));
+      background: -webkit-linear-gradient(bottom, #fcd700 0%, #DFBE00 100%);
+      background: linear-gradient(bottom, #fcd700 0%, #DFBE00 100%); }
+    /* line 162, c:\htdocs\cve\sass\/forms */
+    .button.amarillo:active, button.amarillo:active, input[type=button].amarillo:active, input[type=submit].amarillo:active {
+      color: black;
+      background: #B39800;
+      background: -webkit-gradient(linear, left top, left bottom, from(#DFBE00), to(#B39800));
+      background: -webkit-linear-gradient(top, #DFBE00 0%, #B39800 100%);
+      background: linear-gradient(top, #DFBE00 0%, #B39800 100%); }
+  /* line 168, c:\htdocs\cve\sass\/forms */
+  .button.oscuro, button.oscuro, input[type=button].oscuro, input[type=submit].oscuro {
+    color: #DDD;
+    background: #58595B;
+    background: -webkit-gradient(linear, left top, left bottom, from(#58595B), to(#404041));
+    background: -webkit-linear-gradient(top, #58595B 0%, #404041 100%);
+    background: linear-gradient(top, #58595B 0%, #404041 100%);
+    text-shadow: 1px 1px 2px black;
+    border-color: #231F20; }
+    /* line 174, c:\htdocs\cve\sass\/forms */
+    .button.oscuro:link, .button.oscuro:visited, button.oscuro:link, button.oscuro:visited, input[type=button].oscuro:link, input[type=button].oscuro:visited, input[type=submit].oscuro:link, input[type=submit].oscuro:visited {
+      color: #DDD;
+      background: -webkit-gradient(linear, left top, left bottom, from(#58595B), to(#404041));
+      background: -webkit-linear-gradient(top, #58595B 0%, #404041 100%);
+      background: linear-gradient(top, #58595B 0%, #404041 100%); }
+    /* line 178, c:\htdocs\cve\sass\/forms */
+    .button.oscuro:hover, button.oscuro:hover, input[type=button].oscuro:hover, input[type=submit].oscuro:hover {
+      color: white;
+      background: #404041;
+      background: -webkit-gradient(linear, left bottom, left top, from(#58595B), to(#404041));
+      background: -webkit-linear-gradient(bottom, #58595B 0%, #404041 100%);
+      background: linear-gradient(bottom, #58595B 0%, #404041 100%); }
+    /* line 183, c:\htdocs\cve\sass\/forms */
+    .button.oscuro:active, button.oscuro:active, input[type=button].oscuro:active, input[type=submit].oscuro:active {
+      color: white;
+      background: #231F20;
+      background: -webkit-gradient(linear, left top, left bottom, from(#404041), to(#231F20));
+      background: -webkit-linear-gradient(top, #404041 0%, #231F20 100%);
+      background: linear-gradient(top, #404041 0%, #231F20 100%); }
+  /* line 189, c:\htdocs\cve\sass\/forms */
+  .button[disabled], button[disabled], input[type=button][disabled], input[type=submit][disabled] {
+    background: #BBB;
+    -webkit-filter: none;
+    filter: none;
+    color: #666;
+    border: 1px solid #C8CACB;
+    text-shadow: none;
+    -webkit-box-shadow: 0 0 2px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.25); }
+
+/* line 198, c:\htdocs\cve\sass\/forms */
+.button {
+  line-height: 38px;
+  vertical-align: baseline; }
+  /* line 201, c:\htdocs\cve\sass\/forms */
+  .button:link, .button:visited {
+    text-decoration: none; }
+
+/**
+
+888    8b  8    888b.    8    8    88888
+ 8     8Ybm8    8  .8    8    8      8
+ 8     8  "8    8wwP'    8b..d8      8
+888    8   8    8        `Y88P'      8
+
+ */
+/* line 223, c:\htdocs\cve\sass\/forms */
+input[type="text"], input[type="tel"], input[type="email"], input[type="search"], input[type="telephone"], input[type="url"], input[type="password"], input[type="number"], .tipoInput, .input {
+  line-height: 28px;
+  height: 28px;
+  min-width: 200px;
+  padding: 4px;
+  border: solid 1px #ADAFB1;
+  background-color: #FFF;
+  font-size: 14px;
+  color: #231F20;
+  margin: 5px; }
+  /* line 233, c:\htdocs\cve\sass\/forms */
+  input[type="text"].error, .error input[type="text"], input[type="tel"].error, .error input[type="tel"], input[type="email"].error, .error input[type="email"], input[type="search"].error, .error input[type="search"], input[type="telephone"].error, .error input[type="telephone"], input[type="url"].error, .error input[type="url"], input[type="password"].error, .error input[type="password"], input[type="number"].error, .error input[type="number"], .tipoInput.error, .error .tipoInput, .input.error, .error .input {
+    border: 1px solid #D13646; }
+
+/* line 237, c:\htdocs\cve\sass\/forms */
+input[type="search"] {
+  -webkit-appearance: textfield; }
+
+/* line 240, c:\htdocs\cve\sass\/forms */
+textarea {
+  width: 96%;
+  min-height: 150px;
+  padding: 0.25em 1%;
+  margin: 5px 0 5px 3px;
+  border: 1px solid #ADAFB1;
+  background-color: #FFF;
+  font-size: 16px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px; }
+  /* line 251, c:\htdocs\cve\sass\/forms */
+  textarea.descipcion, textarea.descripcion {
+    min-height: 192px; }
+
+/* line 255, c:\htdocs\cve\sass\/forms */
+select {
+  margin: 5px;
+  min-width: 269px;
+  line-height: 38px;
+  height: 38px; }
+  /* line 260, c:\htdocs\cve\sass\/forms */
+  .ie8 select {
+    padding-bottom: 6px; }
+
+/* line 265, c:\htdocs\cve\sass\/forms */
+.opciones {
+  /* No sé lo que hace esta clase .opciones, pero no me atreví a sacarlo */
+  padding-top: 0.5em; }
+  /* line 268, c:\htdocs\cve\sass\/forms */
+  .opciones label {
+    background: #E0DFDF;
+    padding: 0.2em 0.3em;
+    margin-right: 0.3em;
+    -webkit-border-radius: 4px;
+    border-radius: 4px; }
+
+/*
+
+8       888    .d88b.    88888    .d88b.
+8        8     YPwww.      8      YPwww.
+8        8         d8      8          d8
+8888    888    `Y88P'      8      `Y88P'
+
+*/
+/* line 287, c:\htdocs\cve\sass\/forms */
+form > ul, fieldset > ul, .tipoForm > ul {
+  margin: 0.5em 0;
+  padding: 0; }
+  /* line 290, c:\htdocs\cve\sass\/forms */
+  form > ul li, fieldset > ul li, .tipoForm > ul li {
+    display: block;
+    width: 96%;
+    max-width: 760px;
+    min-height: 48px;
+    margin-left: 2%;
+    margin-top: 1em;
+    background-color: #E6E5E4;
+    border: 1px solid #E6E5E4;
+    position: relative;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-transition: background-color 0.4s ease-in-out;
+    transition: background-color 0.4s ease-in-out; }
+    /* line 302, c:\htdocs\cve\sass\/forms */
+    form > ul li.transparente, fieldset > ul li.transparente, .tipoForm > ul li.transparente {
+      background: none;
+      border: none; }
+    /* line 306, c:\htdocs\cve\sass\/forms */
+    form > ul li.pegado, fieldset > ul li.pegado, .tipoForm > ul li.pegado {
+      margin-top: 0.5em; }
+    /* line 309, c:\htdocs\cve\sass\/forms */
+    form > ul li.sin-margen, fieldset > ul li.sin-margen, .tipoForm > ul li.sin-margen {
+      margin-top: 0; }
+    /* line 312, c:\htdocs\cve\sass\/forms */
+    form > ul li.form-focus, fieldset > ul li.form-focus, .tipoForm > ul li.form-focus {
+      background-color: #4AD4C5;
+      color: black; }
+      /* line 315, c:\htdocs\cve\sass\/forms */
+      form > ul li.form-focus label, fieldset > ul li.form-focus label, .tipoForm > ul li.form-focus label {
+        color: white; }
+      /* line 318, c:\htdocs\cve\sass\/forms */
+      form > ul li.form-focus p, fieldset > ul li.form-focus p, .tipoForm > ul li.form-focus p {
+        color: white; }
+      /* line 323, c:\htdocs\cve\sass\/forms */
+      form > ul li.form-focus.dentro label, form > ul li.form-focus.dentro .tipoLabel, fieldset > ul li.form-focus.dentro label, fieldset > ul li.form-focus.dentro .tipoLabel, .tipoForm > ul li.form-focus.dentro label, .tipoForm > ul li.form-focus.dentro .tipoLabel {
+        color: white;
+        border-bottom: none; }
+    /* line 329, c:\htdocs\cve\sass\/forms */
+    form > ul li.error, fieldset > ul li.error, .tipoForm > ul li.error {
+      background-color: #F9DAD7;
+      color: #910000; }
+      /* line 332, c:\htdocs\cve\sass\/forms */
+      form > ul li.error p, fieldset > ul li.error p, .tipoForm > ul li.error p {
+        color: black; }
+      /* line 335, c:\htdocs\cve\sass\/forms */
+      form > ul li.error.form-focus, fieldset > ul li.error.form-focus, .tipoForm > ul li.error.form-focus {
+        background-color: #910000; }
+        /* line 337, c:\htdocs\cve\sass\/forms */
+        form > ul li.error.form-focus p, fieldset > ul li.error.form-focus p, .tipoForm > ul li.error.form-focus p {
+          color: white; }
+    /* line 344, c:\htdocs\cve\sass\/forms */
+    form > ul li.dentro label, form > ul li.dentro .tipoLabel, fieldset > ul li.dentro label, fieldset > ul li.dentro .tipoLabel, .tipoForm > ul li.dentro label, .tipoForm > ul li.dentro .tipoLabel {
+      position: static;
+      display: inline-block;
+      vertical-align: baseline;
+      line-height: 1.5em;
+      padding: 12px 1em; }
+    /* line 353, c:\htdocs\cve\sass\/forms */
+    form > ul li > label, form > ul li > .tipoLabel, fieldset > ul li > label, fieldset > ul li > .tipoLabel, .tipoForm > ul li > label, .tipoForm > ul li > .tipoLabel {
+      display: block;
+      min-width: 100px;
+      margin: 0.5em 1% 0 1%; }
+    /* line 358, c:\htdocs\cve\sass\/forms */
+    form > ul li p, fieldset > ul li p, .tipoForm > ul li p {
+      margin: 0.25em 1%; }
+    /* line 369, c:\htdocs\cve\sass\/forms */
+    form > ul li input[type="text"], form > ul li input[type="tel"], form > ul li input[type="email"], form > ul li input[type="search"], form > ul li input[type="telephone"], form > ul li input[type="url"], form > ul li input[type="password"], form > ul li .tipoInput, form > ul li input[type="number"], fieldset > ul li input[type="text"], fieldset > ul li input[type="tel"], fieldset > ul li input[type="email"], fieldset > ul li input[type="search"], fieldset > ul li input[type="telephone"], fieldset > ul li input[type="url"], fieldset > ul li input[type="password"], fieldset > ul li .tipoInput, fieldset > ul li input[type="number"], .tipoForm > ul li input[type="text"], .tipoForm > ul li input[type="tel"], .tipoForm > ul li input[type="email"], .tipoForm > ul li input[type="search"], .tipoForm > ul li input[type="telephone"], .tipoForm > ul li input[type="url"], .tipoForm > ul li input[type="password"], .tipoForm > ul li .tipoInput, .tipoForm > ul li input[type="number"] {
+      width: 93%;
+      margin-left: 1%;
+      padding: 4px 2%; }
+    /* line 377, c:\htdocs\cve\sass\/forms */
+    form > ul li select, fieldset > ul li select, .tipoForm > ul li select {
+      margin: 5px 3%;
+      width: 93.5%; }
+    /* line 381, c:\htdocs\cve\sass\/forms */
+    .columna-simple form > ul li, .columna-simple fieldset > ul li, .columna-simple .tipoForm > ul li {
+      display: block; }
+
+@media (min-width: 480px) {
+  /* line 400, c:\htdocs\cve\sass\/forms */
+  form > ul li input[type="text"], form > ul li input[type="tel"], form > ul li input[type="email"], form > ul li input[type="search"], form > ul li input[type="telephone"], form > ul li input[type="url"], form > ul li input[type="password"], form > ul li .tipoInput, form > ul li input[type="number"], fieldset > ul li input[type="text"], fieldset > ul li input[type="tel"], fieldset > ul li input[type="email"], fieldset > ul li input[type="search"], fieldset > ul li input[type="telephone"], fieldset > ul li input[type="url"], fieldset > ul li input[type="password"], fieldset > ul li .tipoInput, fieldset > ul li input[type="number"] {
+    width: 94.5%;
+    margin-left: 1%;
+    padding: 4px 1.5%; }
+  /* line 406, c:\htdocs\cve\sass\/forms */
+  form > ul li > label, form > ul li > .tipoLabel, fieldset > ul li > label, fieldset > ul li > .tipoLabel {
+    margin-left: 1%; } }
+
+@media (min-width: 750px) {
+  /* line 417, c:\htdocs\cve\sass\/forms */
+  form > ul li.wide, fieldset > ul li.wide {
+    width: 96%;
+    max-width: 834px; }
+    /* line 15, c:\htdocs\cve\sass\/forms */
+    form > ul li.wide input[type="text"], form > ul li.wide input[type="tel"], form > ul li.wide input[type="email"], form > ul li.wide input[type="search"], form > ul li.wide input[type="telephone"], form > ul li.wide input[type="url"], form > ul li.wide input[type="password"], form > ul li.wide .tipoInput, form > ul li.wide input[type="number"], fieldset > ul li.wide input[type="text"], fieldset > ul li.wide input[type="tel"], fieldset > ul li.wide input[type="email"], fieldset > ul li.wide input[type="search"], fieldset > ul li.wide input[type="telephone"], fieldset > ul li.wide input[type="url"], fieldset > ul li.wide input[type="password"], fieldset > ul li.wide .tipoInput, fieldset > ul li.wide input[type="number"] {
+      width: 83.25%;
+      margin-left: 14%;
+      padding: 4px 1%; }
+  /* line 428, c:\htdocs\cve\sass\/forms */
+  form > ul li input[type="text"], form > ul li input[type="tel"], form > ul li input[type="email"], form > ul li input[type="search"], form > ul li input[type="telephone"], form > ul li input[type="url"], form > ul li input[type="password"], form > ul li .tipoInput, form > ul li input[type="number"], fieldset > ul li input[type="text"], fieldset > ul li input[type="tel"], fieldset > ul li input[type="email"], fieldset > ul li input[type="search"], fieldset > ul li input[type="telephone"], fieldset > ul li input[type="url"], fieldset > ul li input[type="password"], fieldset > ul li .tipoInput, fieldset > ul li input[type="number"] {
+    width: 96%;
+    margin-left: 1%;
+    padding: 4px 1%; } }
+
+@media print { }
