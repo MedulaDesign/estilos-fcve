@@ -1,165 +1,165 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:300|Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700);
-/* line 33, C:\htdocs\cve\sass\/brand */
+/* line 33, c:\htdocs\cve\sass\/brand */
 .brandColor {
   color: #B61E2D; }
 
-/* line 34, C:\htdocs\cve\sass\/brand */
+/* line 34, c:\htdocs\cve\sass\/brand */
 .brandColor-bg {
   background-color: #B61E2D; }
 
-/* line 36, C:\htdocs\cve\sass\/brand */
+/* line 36, c:\htdocs\cve\sass\/brand */
 .grisNegro {
   color: #231F20; }
 
-/* line 37, C:\htdocs\cve\sass\/brand */
+/* line 37, c:\htdocs\cve\sass\/brand */
 .grisNegro-bg {
   background-color: #231F20; }
 
-/* line 38, C:\htdocs\cve\sass\/brand */
+/* line 38, c:\htdocs\cve\sass\/brand */
 .grisMasOscuro {
   color: #404041; }
 
-/* line 39, C:\htdocs\cve\sass\/brand */
+/* line 39, c:\htdocs\cve\sass\/brand */
 .grisMasOscuro-bg {
   background-color: #404041; }
 
-/* line 40, C:\htdocs\cve\sass\/brand */
+/* line 40, c:\htdocs\cve\sass\/brand */
 .grisOscuro {
   color: #58595B; }
 
-/* line 41, C:\htdocs\cve\sass\/brand */
+/* line 41, c:\htdocs\cve\sass\/brand */
 .grisOscuro-bg {
   background-color: #58595B; }
 
-/* line 42, C:\htdocs\cve\sass\/brand */
+/* line 42, c:\htdocs\cve\sass\/brand */
 .grisMedio {
   color: #6D6E70; }
 
-/* line 43, C:\htdocs\cve\sass\/brand */
+/* line 43, c:\htdocs\cve\sass\/brand */
 .grisMedio-bg {
   background-color: #6D6E70; }
 
-/* line 44, C:\htdocs\cve\sass\/brand */
+/* line 44, c:\htdocs\cve\sass\/brand */
 .grisClaro {
   color: #C8CACB; }
 
-/* line 45, C:\htdocs\cve\sass\/brand */
+/* line 45, c:\htdocs\cve\sass\/brand */
 .grisClaro-bg {
   background-color: #C8CACB; }
 
-/* line 46, C:\htdocs\cve\sass\/brand */
+/* line 46, c:\htdocs\cve\sass\/brand */
 .grisMasClaro {
   color: #E6E5E4; }
 
-/* line 47, C:\htdocs\cve\sass\/brand */
+/* line 47, c:\htdocs\cve\sass\/brand */
 .grisMasClaro-bg {
   background-color: #E6E5E4; }
 
-/* line 48, C:\htdocs\cve\sass\/brand */
+/* line 48, c:\htdocs\cve\sass\/brand */
 .grisBlanco {
   color: #ECEBE8; }
 
-/* line 49, C:\htdocs\cve\sass\/brand */
+/* line 49, c:\htdocs\cve\sass\/brand */
 .grisBlanco-bg {
   background-color: #ECEBE8; }
 
-/* line 51, C:\htdocs\cve\sass\/brand */
+/* line 51, c:\htdocs\cve\sass\/brand */
 .amarillo {
   color: #fcd700; }
 
-/* line 52, C:\htdocs\cve\sass\/brand */
+/* line 52, c:\htdocs\cve\sass\/brand */
 .amarillo-bg {
   background-color: #fcd700; }
 
-/* line 54, C:\htdocs\cve\sass\/brand */
+/* line 54, c:\htdocs\cve\sass\/brand */
 .rojo {
   color: #B61E2D; }
 
-/* line 55, C:\htdocs\cve\sass\/brand */
+/* line 55, c:\htdocs\cve\sass\/brand */
 .rojo-bg {
   background-color: #B61E2D; }
 
-/* line 56, C:\htdocs\cve\sass\/brand */
+/* line 56, c:\htdocs\cve\sass\/brand */
 .rojoClaro {
   color: #D13646; }
 
-/* line 57, C:\htdocs\cve\sass\/brand */
+/* line 57, c:\htdocs\cve\sass\/brand */
 .rojoClaro-bg {
   background-color: #D13646; }
 
-/* line 58, C:\htdocs\cve\sass\/brand */
+/* line 58, c:\htdocs\cve\sass\/brand */
 .rojoOscuro {
   color: #B61E2D; }
 
-/* line 59, C:\htdocs\cve\sass\/brand */
+/* line 59, c:\htdocs\cve\sass\/brand */
 .rojoOscuro-bg {
   background-color: #B61E2D; }
 
-/* line 60, C:\htdocs\cve\sass\/brand */
+/* line 60, c:\htdocs\cve\sass\/brand */
 .verde {
   color: #3CB5A9; }
 
-/* line 61, C:\htdocs\cve\sass\/brand */
+/* line 61, c:\htdocs\cve\sass\/brand */
 .verde-bg {
   background-color: #3CB5A9; }
 
-/* line 62, C:\htdocs\cve\sass\/brand */
+/* line 62, c:\htdocs\cve\sass\/brand */
 .verdeClaro {
   color: #4AD4C5; }
 
-/* line 63, C:\htdocs\cve\sass\/brand */
+/* line 63, c:\htdocs\cve\sass\/brand */
 .verdeClaro-bg {
   background-color: #4AD4C5; }
 
-/* line 64, C:\htdocs\cve\sass\/brand */
+/* line 64, c:\htdocs\cve\sass\/brand */
 .verdeOscuro {
   color: #027977; }
 
-/* line 65, C:\htdocs\cve\sass\/brand */
+/* line 65, c:\htdocs\cve\sass\/brand */
 .verdeOscuro-bg {
   background-color: #027977; }
 
-/* line 66, C:\htdocs\cve\sass\/brand */
+/* line 66, c:\htdocs\cve\sass\/brand */
 .azul {
   color: #4E8BC7; }
 
-/* line 67, C:\htdocs\cve\sass\/brand */
+/* line 67, c:\htdocs\cve\sass\/brand */
 .azul-bg {
   background-color: #4E8BC7; }
 
-/* line 68, C:\htdocs\cve\sass\/brand */
+/* line 68, c:\htdocs\cve\sass\/brand */
 .azulClaro {
   color: #5EA3E6; }
 
-/* line 69, C:\htdocs\cve\sass\/brand */
+/* line 69, c:\htdocs\cve\sass\/brand */
 .azulClaro-bg {
   background-color: #5EA3E6; }
 
-/* line 70, C:\htdocs\cve\sass\/brand */
+/* line 70, c:\htdocs\cve\sass\/brand */
 .azulOscuro {
   color: #33699B; }
 
-/* line 71, C:\htdocs\cve\sass\/brand */
+/* line 71, c:\htdocs\cve\sass\/brand */
 .azulOscuro-bg {
   background-color: #33699B; }
 
-/* line 74, C:\htdocs\cve\sass\/brand */
+/* line 74, c:\htdocs\cve\sass\/brand */
 .sans {
   font-family: "Open Sans", Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
-/* line 77, C:\htdocs\cve\sass\/brand */
+/* line 77, c:\htdocs\cve\sass\/brand */
 .serif {
   font-family: Georgia, Constantia, "DejaVu Serif", serif; }
 
-/* line 80, C:\htdocs\cve\sass\/brand */
+/* line 80, c:\htdocs\cve\sass\/brand */
 .display {
   font-family: 'Lato', Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans-serif; }
 
-/* line 84, C:\htdocs\cve\sass\/brand */
+/* line 84, c:\htdocs\cve\sass\/brand */
 .light {
   font-weight: 300; }
 
-/* line 87, C:\htdocs\cve\sass\/brand */
+/* line 87, c:\htdocs\cve\sass\/brand */
 .semi-bold {
   font-weight: 600; }
 
@@ -169,7 +169,7 @@
  * 2. Prevent iOS text size adjust after orientation change, without disabling
  *    user zoom.
  */
-/* line 9, C:\htdocs\cve\sass\/normalize */
+/* line 9, c:\htdocs\cve\sass\/normalize */
 html {
   font-family: sans-serif;
   /* 1 */
@@ -181,7 +181,7 @@ html {
 /**
  * Remove default margin.
  */
-/* line 19, C:\htdocs\cve\sass\/normalize */
+/* line 19, c:\htdocs\cve\sass\/normalize */
 body {
   margin: 0; }
 
@@ -192,7 +192,7 @@ body {
  * Correct `block` display not defined for `details` or `summary` in IE 10/11 and Firefox.
  * Correct `block` display not defined for `main` in IE 11.
  */
-/* line 43, C:\htdocs\cve\sass\/normalize */
+/* line 43, c:\htdocs\cve\sass\/normalize */
 article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
   display: block; }
 
@@ -200,7 +200,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, 
  * 1. Correct `inline-block` display not defined in IE 8/9.
  * 2. Normalize vertical alignment of `progress` in Chrome, Firefox, and Opera.
  */
-/* line 55, C:\htdocs\cve\sass\/normalize */
+/* line 55, c:\htdocs\cve\sass\/normalize */
 audio, canvas, progress, video {
   display: inline-block;
   /* 1 */
@@ -211,7 +211,7 @@ audio, canvas, progress, video {
  * Prevent modern browsers from displaying `audio` without controls.
  * Remove excess height in iOS 5 devices.
  */
-/* line 65, C:\htdocs\cve\sass\/normalize */
+/* line 65, c:\htdocs\cve\sass\/normalize */
 audio:not([controls]) {
   display: none;
   height: 0; }
@@ -220,7 +220,7 @@ audio:not([controls]) {
  * Address `[hidden]` styling not present in IE 8/9/10.
  * Hide the `template` element in IE 8/9/11, Safari, and Firefox < 22.
  */
-/* line 76, C:\htdocs\cve\sass\/normalize */
+/* line 76, c:\htdocs\cve\sass\/normalize */
 [hidden], template {
   display: none; }
 
@@ -229,14 +229,14 @@ audio:not([controls]) {
 /**
  * Remove the gray background color from active links in IE 10.
  */
-/* line 87, C:\htdocs\cve\sass\/normalize */
+/* line 87, c:\htdocs\cve\sass\/normalize */
 a {
   background: transparent; }
 
 /**
  * Improve readability when focused and also mouse hovered in all browsers.
  */
-/* line 96, C:\htdocs\cve\sass\/normalize */
+/* line 96, c:\htdocs\cve\sass\/normalize */
 a:active, a:hover {
   outline: 0; }
 
@@ -245,21 +245,21 @@ a:active, a:hover {
 /**
  * Address styling not present in IE 8/9/10/11, Safari, and Chrome.
  */
-/* line 107, C:\htdocs\cve\sass\/normalize */
+/* line 107, c:\htdocs\cve\sass\/normalize */
 abbr[title] {
   border-bottom: 1px dotted; }
 
 /**
  * Address style set to `bolder` in Firefox 4+, Safari, and Chrome.
  */
-/* line 116, C:\htdocs\cve\sass\/normalize */
+/* line 116, c:\htdocs\cve\sass\/normalize */
 b, strong {
   font-weight: bold; }
 
 /**
  * Address styling not present in Safari and Chrome.
  */
-/* line 124, C:\htdocs\cve\sass\/normalize */
+/* line 124, c:\htdocs\cve\sass\/normalize */
 dfn {
   font-style: italic; }
 
@@ -267,7 +267,7 @@ dfn {
  * Address variable `h1` font-size and margin within `section` and `article`
  * contexts in Firefox 4+, Safari, and Chrome.
  */
-/* line 133, C:\htdocs\cve\sass\/normalize */
+/* line 133, c:\htdocs\cve\sass\/normalize */
 h1 {
   font-size: 2em;
   margin: 0.67em 0; }
@@ -275,7 +275,7 @@ h1 {
 /**
  * Address styling not present in IE 8/9.
  */
-/* line 142, C:\htdocs\cve\sass\/normalize */
+/* line 142, c:\htdocs\cve\sass\/normalize */
 mark {
   background: #ff0;
   color: #000; }
@@ -283,25 +283,25 @@ mark {
 /**
  * Address inconsistent and variable font size in all browsers.
  */
-/* line 151, C:\htdocs\cve\sass\/normalize */
+/* line 151, c:\htdocs\cve\sass\/normalize */
 small {
   font-size: 80%; }
 
 /**
  * Prevent `sub` and `sup` affecting `line-height` in all browsers.
  */
-/* line 160, C:\htdocs\cve\sass\/normalize */
+/* line 160, c:\htdocs\cve\sass\/normalize */
 sub, sup {
   font-size: 75%;
   line-height: 0;
   position: relative;
   vertical-align: baseline; }
 
-/* line 167, C:\htdocs\cve\sass\/normalize */
+/* line 167, c:\htdocs\cve\sass\/normalize */
 sup {
   top: -0.5em; }
 
-/* line 171, C:\htdocs\cve\sass\/normalize */
+/* line 171, c:\htdocs\cve\sass\/normalize */
 sub {
   bottom: -0.25em; }
 
@@ -310,14 +310,14 @@ sub {
 /**
  * Remove border when inside `a` element in IE 8/9/10.
  */
-/* line 182, C:\htdocs\cve\sass\/normalize */
+/* line 182, c:\htdocs\cve\sass\/normalize */
 img {
   border: 0; }
 
 /**
  * Correct overflow not hidden in IE 9/10/11.
  */
-/* line 190, C:\htdocs\cve\sass\/normalize */
+/* line 190, c:\htdocs\cve\sass\/normalize */
 svg:not(:root) {
   overflow: hidden; }
 
@@ -326,14 +326,14 @@ svg:not(:root) {
 /**
  * Address margin not present in IE 8/9 and Safari.
  */
-/* line 201, C:\htdocs\cve\sass\/normalize */
+/* line 201, c:\htdocs\cve\sass\/normalize */
 figure {
   margin: 1em 40px; }
 
 /**
  * Address differences between Firefox and other browsers.
  */
-/* line 209, C:\htdocs\cve\sass\/normalize */
+/* line 209, c:\htdocs\cve\sass\/normalize */
 hr {
   -moz-box-sizing: content-box;
   -webkit-box-sizing: content-box;
@@ -343,14 +343,14 @@ hr {
 /**
  * Contain overflow in all browsers.
  */
-/* line 219, C:\htdocs\cve\sass\/normalize */
+/* line 219, c:\htdocs\cve\sass\/normalize */
 pre {
   overflow: auto; }
 
 /**
  * Address odd `em`-unit font size rendering in all browsers.
  */
-/* line 230, C:\htdocs\cve\sass\/normalize */
+/* line 230, c:\htdocs\cve\sass\/normalize */
 code, kbd, pre, samp {
   font-family: monospace, monospace;
   font-size: 1em; }
@@ -367,7 +367,7 @@ code, kbd, pre, samp {
  * 2. Correct font properties not being inherited.
  * 3. Address margins set differently in Firefox 4+, Safari, and Chrome.
  */
-/* line 254, C:\htdocs\cve\sass\/normalize */
+/* line 254, c:\htdocs\cve\sass\/normalize */
 button, input, optgroup, select, textarea {
   color: inherit;
   /* 1 */
@@ -379,7 +379,7 @@ button, input, optgroup, select, textarea {
 /**
  * Address `overflow` set to `hidden` in IE 8/9/10/11.
  */
-/* line 264, C:\htdocs\cve\sass\/normalize */
+/* line 264, c:\htdocs\cve\sass\/normalize */
 button {
   overflow: visible; }
 
@@ -389,7 +389,7 @@ button {
  * Correct `button` style inheritance in Firefox, IE 8/9/10/11, and Opera.
  * Correct `select` style inheritance in Firefox.
  */
-/* line 276, C:\htdocs\cve\sass\/normalize */
+/* line 276, c:\htdocs\cve\sass\/normalize */
 button, select {
   text-transform: none; }
 
@@ -400,7 +400,7 @@ button, select {
  * 3. Improve usability and consistency of cursor style between image-type
  *    `input` and others.
  */
-/* line 291, C:\htdocs\cve\sass\/normalize */
+/* line 291, c:\htdocs\cve\sass\/normalize */
 button, html input[type="button"], input[type="reset"], input[type="submit"] {
   -webkit-appearance: button;
   /* 2 */
@@ -410,14 +410,14 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] {
 /**
  * Re-set default cursor for disabled elements.
  */
-/* line 301, C:\htdocs\cve\sass\/normalize */
+/* line 301, c:\htdocs\cve\sass\/normalize */
 button[disabled], html input[disabled] {
   cursor: default; }
 
 /**
  * Remove inner padding and border in Firefox 4+.
  */
-/* line 310, C:\htdocs\cve\sass\/normalize */
+/* line 310, c:\htdocs\cve\sass\/normalize */
 button::-moz-focus-inner, input::-moz-focus-inner {
   border: 0;
   padding: 0; }
@@ -426,7 +426,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  * Address Firefox 4+ setting `line-height` on `input` using `!important` in
  * the UA stylesheet.
  */
-/* line 320, C:\htdocs\cve\sass\/normalize */
+/* line 320, c:\htdocs\cve\sass\/normalize */
 input {
   line-height: normal; }
 
@@ -437,7 +437,7 @@ input {
  * 1. Address box sizing set to `content-box` in IE 8/9/10.
  * 2. Remove excess padding in IE 8/9/10.
  */
-/* line 333, C:\htdocs\cve\sass\/normalize */
+/* line 333, c:\htdocs\cve\sass\/normalize */
 input[type="checkbox"], input[type="radio"] {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -451,7 +451,7 @@ input[type="checkbox"], input[type="radio"] {
  * `font-size` values of the `input`, it causes the cursor style of the
  * decrement button to change from `default` to `text`.
  */
-/* line 345, C:\htdocs\cve\sass\/normalize */
+/* line 345, c:\htdocs\cve\sass\/normalize */
 input[type="number"]::-webkit-inner-spin-button, input[type="number"]::-webkit-outer-spin-button {
   height: auto; }
 
@@ -460,7 +460,7 @@ input[type="number"]::-webkit-inner-spin-button, input[type="number"]::-webkit-o
  * 2. Address `box-sizing` set to `border-box` in Safari and Chrome
  *    (include `-moz` to future-proof).
  */
-/* line 355, C:\htdocs\cve\sass\/normalize */
+/* line 355, c:\htdocs\cve\sass\/normalize */
 input[type="search"] {
   -webkit-appearance: textfield;
   /* 1 */
@@ -474,14 +474,14 @@ input[type="search"] {
  * Safari (but not Chrome) clips the cancel button when the search input has
  * padding (and `textfield` appearance).
  */
-/* line 369, C:\htdocs\cve\sass\/normalize */
+/* line 369, c:\htdocs\cve\sass\/normalize */
 input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-decoration {
   -webkit-appearance: none; }
 
 /**
  * Define consistent border, margin, and padding.
  */
-/* line 377, C:\htdocs\cve\sass\/normalize */
+/* line 377, c:\htdocs\cve\sass\/normalize */
 fieldset {
   border: 1px solid #c0c0c0;
   margin: 0 2px;
@@ -491,7 +491,7 @@ fieldset {
  * 1. Correct `color` not being inherited in IE 8/9/10/11.
  * 2. Remove padding so people aren't caught out if they zero out fieldsets.
  */
-/* line 388, C:\htdocs\cve\sass\/normalize */
+/* line 388, c:\htdocs\cve\sass\/normalize */
 legend {
   border: 0;
   /* 1 */
@@ -501,7 +501,7 @@ legend {
 /**
  * Remove default vertical scrollbar in IE 8/9/10/11.
  */
-/* line 397, C:\htdocs\cve\sass\/normalize */
+/* line 397, c:\htdocs\cve\sass\/normalize */
 textarea {
   overflow: auto; }
 
@@ -509,7 +509,7 @@ textarea {
  * Don't inherit the `font-weight` (applied by a rule above).
  * NOTE: the default cannot safely be changed in Chrome and Safari on OS X.
  */
-/* line 406, C:\htdocs\cve\sass\/normalize */
+/* line 406, c:\htdocs\cve\sass\/normalize */
 optgroup {
   font-weight: bold; }
 
@@ -518,25 +518,25 @@ optgroup {
 /**
  * Remove most spacing between table cells.
  */
-/* line 417, C:\htdocs\cve\sass\/normalize */
+/* line 417, c:\htdocs\cve\sass\/normalize */
 table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-/* line 423, C:\htdocs\cve\sass\/normalize */
+/* line 423, c:\htdocs\cve\sass\/normalize */
 td, th {
   padding: 0; }
 
 /*
 ** Mejoras básicas a los estilos por defecto de los navegadores.
 */
-/* line 5, C:\htdocs\cve\sass\/mejoras-1 */
+/* line 5, c:\htdocs\cve\sass\/mejoras-1 */
 body {
   /* http://css-tricks.com/snippets/css/font-stacks/ */
   /* Helvetica/Arial-based sans serif stack */
   font-family: "Open Sans", Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
-/* line 10, C:\htdocs\cve\sass\/mejoras-1 */
+/* line 10, c:\htdocs\cve\sass\/mejoras-1 */
 pre, code, kbd, samp {
   /* Monospace stack */
   font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace; }
@@ -544,12 +544,12 @@ pre, code, kbd, samp {
 /* Responsive images and other embedded objects
    Note: keeping IMG here will cause problems if you're using foreground images as sprites.
    If this default setting for images is causing issues, you might want to replace it with a .responsive class instead. */
-/* line 20, C:\htdocs\cve\sass\/mejoras-1 */
+/* line 20, c:\htdocs\cve\sass\/mejoras-1 */
 img, object, embed {
   max-width: 100%; }
 
 /* Estilos de un <hr> emparejados */
-/* line 23, C:\htdocs\cve\sass\/mejoras-1 */
+/* line 23, c:\htdocs\cve\sass\/mejoras-1 */
 hr {
   display: block;
   height: 0;
@@ -559,16 +559,16 @@ hr {
   padding: 0; }
 
 /* Alinear los input y radio a la caja del texto y no en el baseline. */
-/* line 33, C:\htdocs\cve\sass\/mejoras-1 */
+/* line 33, c:\htdocs\cve\sass\/mejoras-1 */
 input[type="radio"] {
   vertical-align: text-bottom; }
 
-/* line 34, C:\htdocs\cve\sass\/mejoras-1 */
+/* line 34, c:\htdocs\cve\sass\/mejoras-1 */
 input[type="checkbox"] {
   vertical-align: middle; }
 
 /* las listas dentro de NAV y las UL dentro de FORM en general no usan estilos de lista */
-/* line 39, C:\htdocs\cve\sass\/mejoras-1 */
+/* line 39, c:\htdocs\cve\sass\/mejoras-1 */
 nav ul, nav ol, form ul {
   list-style: none;
   list-style-image: none;
@@ -576,12 +576,12 @@ nav ul, nav ol, form ul {
   padding: 0; }
 
 /* hand cursor on clickable elements */
-/* line 48, C:\htdocs\cve\sass\/mejoras-1 */
+/* line 48, c:\htdocs\cve\sass\/mejoras-1 */
 .clickable, label {
   cursor: pointer; }
 
 /* Los bloquotes deben diferenciarse un poco más del resto del texto */
-/* line 51, C:\htdocs\cve\sass\/mejoras-1 */
+/* line 51, c:\htdocs\cve\sass\/mejoras-1 */
 blockquote {
   border-left: 3px solid #BBB;
   margin-left: 0.5em;
@@ -590,7 +590,7 @@ blockquote {
 /* Print styles!
 -------------------------------------------------------------------------------*/
 @media print {
-  /* line 61, C:\htdocs\cve\sass\/mejoras-1 */
+  /* line 61, c:\htdocs\cve\sass\/mejoras-1 */
   body, select, input, textarea, a, a:link, a:visited {
     color: #000; } }
 
@@ -599,47 +599,47 @@ blockquote {
 ** tiene algunas clases helpers (.clickable)
 */
 /* títulos más prominentes y nunca menores que el cuerpo de texto base */
-/* line 9, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 9, c:\htdocs\cve\sass\/mejoras-2 */
 h1 {
   font-size: 2.25em; }
 
-/* line 12, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 12, c:\htdocs\cve\sass\/mejoras-2 */
 h2 {
   font-size: 1.75em; }
 
-/* line 15, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 15, c:\htdocs\cve\sass\/mejoras-2 */
 h3 {
   font-size: 1.5em; }
 
-/* line 18, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 18, c:\htdocs\cve\sass\/mejoras-2 */
 h4 {
   font-size: 1.25em; }
 
-/* line 21, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 21, c:\htdocs\cve\sass\/mejoras-2 */
 h5 {
   font-size: 1.17em; }
 
-/* line 24, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 24, c:\htdocs\cve\sass\/mejoras-2 */
 h6 {
   font-size: 1em;
   text-transform: uppercase; }
 
 /* Los encabezados deben estar má cerca del párrafo que encabezan que del anterior */
-/* line 34, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 34, c:\htdocs\cve\sass\/mejoras-2 */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0.5em; }
 
 /* se ve feo si llega hasta la orilla*/
-/* line 39, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 39, c:\htdocs\cve\sass\/mejoras-2 */
 hr {
   margin: 1em; }
 
 /* Las tablas deben tener estilos mínimos*/
-/* line 45, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 45, c:\htdocs\cve\sass\/mejoras-2 */
 th, thead td {
   font-weight: bold; }
 
-/* line 49, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 49, c:\htdocs\cve\sass\/mejoras-2 */
 td, th {
   padding: 0.375em;
   border-bottom: 1px solid #999; }
@@ -648,128 +648,128 @@ td, th {
 ** Utilidades y clases no semánticas
 */
 /* let's clear some floats */
-/* line 59, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 59, c:\htdocs\cve\sass\/mejoras-2 */
 .clearfix:before, .clearfix:after {
   content: "\0020";
   display: block;
   height: 0;
   overflow: hidden; }
 
-/* line 60, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 60, c:\htdocs\cve\sass\/mejoras-2 */
 .clearfix:after {
   clear: both; }
 
-/* line 61, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 61, c:\htdocs\cve\sass\/mejoras-2 */
 .clearfix {
   zoom: 1; }
 
 /* other non-semantic helper classes 
 Otras clases de ayuda no-semántica (OHHHH el horroooor!)*/
-/* line 66, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 66, c:\htdocs\cve\sass\/mejoras-2 */
 .limpia, .clean {
   clear: both; }
 
-/* line 67, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 67, c:\htdocs\cve\sass\/mejoras-2 */
 .flotaIzquierda, .flota-izquierda {
   float: left; }
 
-/* line 68, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 68, c:\htdocs\cve\sass\/mejoras-2 */
 .flotaDerecha, .flota-derecha {
   float: right; }
 
-/* line 69, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 69, c:\htdocs\cve\sass\/mejoras-2 */
 .flotaNo, .flota-no {
   float: right; }
 
-/* line 70, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 70, c:\htdocs\cve\sass\/mejoras-2 */
 .aIzquierda {
   text-align: left; }
 
-/* line 71, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 71, c:\htdocs\cve\sass\/mejoras-2 */
 .aDerecha {
   text-align: right; }
 
-/* line 72, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 72, c:\htdocs\cve\sass\/mejoras-2 */
 .aCentro {
   text-align: center; }
 
-/* line 73, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 73, c:\htdocs\cve\sass\/mejoras-2 */
 .invisible {
   display: none; }
 
-/* line 74, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 74, c:\htdocs\cve\sass\/mejoras-2 */
 .numero {
   font-family: Monaco, 'Courier New', monospace; }
 
 /* márgenes rápidos */
-/* line 78, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 78, c:\htdocs\cve\sass\/mejoras-2 */
 .mt1 {
   margin-top: 0.5em; }
 
-/* line 79, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 79, c:\htdocs\cve\sass\/mejoras-2 */
 .mt2 {
   margin-top: 1em; }
 
-/* line 80, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 80, c:\htdocs\cve\sass\/mejoras-2 */
 .mt3 {
   margin-top: 1.5em; }
 
-/* line 81, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 81, c:\htdocs\cve\sass\/mejoras-2 */
 .mt4 {
   margin-top: 2em; }
 
-/* line 82, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 82, c:\htdocs\cve\sass\/mejoras-2 */
 .mb1 {
   margin-bottom: 0.5em; }
 
-/* line 83, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 83, c:\htdocs\cve\sass\/mejoras-2 */
 .mb2 {
   margin-bottom: 1em; }
 
-/* line 84, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 84, c:\htdocs\cve\sass\/mejoras-2 */
 .mb3 {
   margin-bottom: 1.5em; }
 
-/* line 85, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 85, c:\htdocs\cve\sass\/mejoras-2 */
 .mb4 {
   margin-bottom: 2em; }
 
-/* line 86, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 86, c:\htdocs\cve\sass\/mejoras-2 */
 .ml1 {
   margin-left: 0.5em; }
 
-/* line 87, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 87, c:\htdocs\cve\sass\/mejoras-2 */
 .ml2 {
   margin-left: 1em; }
 
-/* line 88, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 88, c:\htdocs\cve\sass\/mejoras-2 */
 .ml3 {
   margin-left: 1.5em; }
 
-/* line 89, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 89, c:\htdocs\cve\sass\/mejoras-2 */
 .ml4 {
   margin-left: 2em; }
 
-/* line 90, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 90, c:\htdocs\cve\sass\/mejoras-2 */
 .mr1 {
   margin-right: 0.5em; }
 
-/* line 91, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 91, c:\htdocs\cve\sass\/mejoras-2 */
 .mr2 {
   margin-right: 1em; }
 
-/* line 92, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 92, c:\htdocs\cve\sass\/mejoras-2 */
 .mr3 {
   margin-right: 1.5em; }
 
-/* line 93, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 93, c:\htdocs\cve\sass\/mejoras-2 */
 .mr4 {
   margin-right: 2em; }
 
-/* line 95, C:\htdocs\cve\sass\/mejoras-2 */
+/* line 95, c:\htdocs\cve\sass\/mejoras-2 */
 .boton {
   display: inline-block;
-  width: 168px;
+  min-width: 168px;
   height: 38px;
   line-height: 38px;
   margin-top: -19px;
@@ -778,8 +778,9 @@ Otras clases de ayuda no-semántica (OHHHH el horroooor!)*/
   z-index: 1;
   font-size: 1.285em;
   padding-left: 15px;
+  padding-right: 35px;
   background-color: #B61E2D; }
-  /* line 107, C:\htdocs\cve\sass\/mejoras-2 */
+  /* line 108, c:\htdocs\cve\sass\/mejoras-2 */
   .boton:before {
     content: ' ';
     width: 0;
@@ -789,7 +790,7 @@ Otras clases de ayuda no-semántica (OHHHH el horroooor!)*/
     position: absolute;
     top: 0;
     right: -38px; }
-  /* line 117, C:\htdocs\cve\sass\/mejoras-2 */
+  /* line 118, c:\htdocs\cve\sass\/mejoras-2 */
   .boton:after {
     -webkit-transition: right 0.5s ease-out;
     transition: right 0.5s ease-out;
@@ -807,36 +808,36 @@ Otras clases de ayuda no-semántica (OHHHH el horroooor!)*/
     /* Better Font Rendering =========== */
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale; }
-  /* line 136, C:\htdocs\cve\sass\/mejoras-2 */
+  /* line 137, c:\htdocs\cve\sass\/mejoras-2 */
   .boton:link, .boton:visited {
     text-decoration: none;
     color: white; }
-    /* line 139, C:\htdocs\cve\sass\/mejoras-2 */
+    /* line 140, c:\htdocs\cve\sass\/mejoras-2 */
     .boton:link:after, .boton:visited:after {
       right: -6px; }
-  /* line 143, C:\htdocs\cve\sass\/mejoras-2 */
+  /* line 144, c:\htdocs\cve\sass\/mejoras-2 */
   .boton:hover, .boton:active {
     color: #C8CACB; }
-    /* line 145, C:\htdocs\cve\sass\/mejoras-2 */
+    /* line 146, c:\htdocs\cve\sass\/mejoras-2 */
     .boton:hover:after, .boton:active:after {
       right: -12px; }
-  /* line 149, C:\htdocs\cve\sass\/mejoras-2 */
+  /* line 150, c:\htdocs\cve\sass\/mejoras-2 */
   .boton.verde {
     background-color: #3CB5A9; }
-    /* line 151, C:\htdocs\cve\sass\/mejoras-2 */
+    /* line 152, c:\htdocs\cve\sass\/mejoras-2 */
     .boton.verde:before {
       border-left-color: #3CB5A9; }
-  /* line 155, C:\htdocs\cve\sass\/mejoras-2 */
+  /* line 156, c:\htdocs\cve\sass\/mejoras-2 */
   .boton.azul {
     background-color: #4E8BC7; }
-    /* line 157, C:\htdocs\cve\sass\/mejoras-2 */
+    /* line 158, c:\htdocs\cve\sass\/mejoras-2 */
     .boton.azul:before {
       border-left-color: #4E8BC7; }
 
 /* Print styles!
 -------------------------------------------------------------------------------*/
 @media print {
-  /* line 165, C:\htdocs\cve\sass\/mejoras-2 */
+  /* line 166, c:\htdocs\cve\sass\/mejoras-2 */
   body, select, input, textarea, a, a:link, a:visited {
     color: #000; } }
 
@@ -845,37 +846,37 @@ Otras clases de ayuda no-semántica (OHHHH el horroooor!)*/
 	Hay definición de @media queries para algunos elementos
 */
 /* casi negro  para el texto*/
-/* line 11, C:\htdocs\cve\sass\/mejoras-3 */
+/* line 11, c:\htdocs\cve\sass\/mejoras-3 */
 body, select, input, textarea {
   color: #333; }
 
-/* line 15, C:\htdocs\cve\sass\/mejoras-3 */
+/* line 15, c:\htdocs\cve\sass\/mejoras-3 */
 a, a:link {
   color: #33699B;
   text-decoration: underline; }
 
-/* line 19, C:\htdocs\cve\sass\/mejoras-3 */
+/* line 19, c:\htdocs\cve\sass\/mejoras-3 */
 a:visited {
   color: #4E8BC7;
   text-decoration: underline; }
 
-/* line 23, C:\htdocs\cve\sass\/mejoras-3 */
+/* line 23, c:\htdocs\cve\sass\/mejoras-3 */
 a:hover {
   color: #5EA3E6;
   text-decoration: none; }
 
-/* line 27, C:\htdocs\cve\sass\/mejoras-3 */
+/* line 27, c:\htdocs\cve\sass\/mejoras-3 */
 a:active {
   color: #3CB5A9; }
 
 /* Custom text-selection colors (remove any text shadows: twitter.com/miketaylr/status/12228805301) */
-/* line 32, C:\htdocs\cve\sass\/mejoras-3 */
+/* line 32, c:\htdocs\cve\sass\/mejoras-3 */
 ::-moz-selection {
   background: #B61E2D;
   color: #fff;
   text-shadow: none; }
 
-/* line 33, C:\htdocs\cve\sass\/mejoras-3 */
+/* line 33, c:\htdocs\cve\sass\/mejoras-3 */
 ::-moz-selection {
   background: #B61E2D;
   color: #fff;
@@ -886,12 +887,12 @@ a:active {
   text-shadow: none; }
 
 /*	j.mp/webkit-tap-highlight-color */
-/* line 36, C:\htdocs\cve\sass\/mejoras-3 */
+/* line 36, c:\htdocs\cve\sass\/mejoras-3 */
 a:link {
   -webkit-tap-highlight-color: #B61E2D; }
 
 /* figure y fig-caption */
-/* line 40, C:\htdocs\cve\sass\/mejoras-3 */
+/* line 40, c:\htdocs\cve\sass\/mejoras-3 */
 figure {
   border: 1px solid #BBB;
   padding: 1em;
@@ -899,7 +900,7 @@ figure {
   display: inline-block;
   /* inline-block tiene algunos problemas cuando el figcaption es más grande que la imagen */ }
 
-/* line 47, C:\htdocs\cve\sass\/mejoras-3 */
+/* line 47, c:\htdocs\cve\sass\/mejoras-3 */
 figcaption {
   color: #555;
   /* Modern Georgia-based serif stack */
@@ -908,14 +909,14 @@ figcaption {
 /*
   Con esto los definition list parecen definición de diccionario
 */
-/* line 56, C:\htdocs\cve\sass\/mejoras-3 */
+/* line 56, c:\htdocs\cve\sass\/mejoras-3 */
 dl {
   margin: 0.5em 0;
   padding: 0;
   overflow: hidden;
   border-bottom: 1px solid #ddd; }
 
-/* line 62, C:\htdocs\cve\sass\/mejoras-3 */
+/* line 62, c:\htdocs\cve\sass\/mejoras-3 */
 dt {
   clear: left;
   float: left;
@@ -923,28 +924,28 @@ dt {
   margin: 0 0 0.5em 0;
   font-weight: bold; }
 
-/* line 69, C:\htdocs\cve\sass\/mejoras-3 */
+/* line 69, c:\htdocs\cve\sass\/mejoras-3 */
 dd {
   float: left;
   width: 66%;
   margin: 0 0 0.5em 0; }
 
 @media (min-width: 37em) {
-  /* line 76, C:\htdocs\cve\sass\/mejoras-3 */
+  /* line 76, c:\htdocs\cve\sass\/mejoras-3 */
   dt {
     width: 25%; }
-  /* line 79, C:\htdocs\cve\sass\/mejoras-3 */
+  /* line 79, c:\htdocs\cve\sass\/mejoras-3 */
   dd {
     width: 74%; } }
 
 @media (min-width: 49em) {
-  /* line 85, C:\htdocs\cve\sass\/mejoras-3 */
+  /* line 85, c:\htdocs\cve\sass\/mejoras-3 */
   dt {
     width: 20%; }
-  /* line 88, C:\htdocs\cve\sass\/mejoras-3 */
+  /* line 88, c:\htdocs\cve\sass\/mejoras-3 */
   dd {
     width: 79%; }
-  /* line 91, C:\htdocs\cve\sass\/mejoras-3 */
+  /* line 91, c:\htdocs\cve\sass\/mejoras-3 */
   .wrapper {
     max-width: 61em;
     margin: 0 auto; } }
@@ -964,11 +965,11 @@ dd {
 	box-sizing: border-box;
 }
 //*/
-/* line 19, C:\htdocs\cve\sass\/simplegrid */
+/* line 19, c:\htdocs\cve\sass\/simplegrid */
 body {
   margin: 0px; }
 
-/* line 24, C:\htdocs\cve\sass\/simplegrid */
+/* line 24, c:\htdocs\cve\sass\/simplegrid */
 .grid {
   width: 100%;
   min-width: 0;
@@ -978,17 +979,17 @@ body {
   /* grid-space to left */
   padding-right: 16px;
   /* grid-space to right: (grid-space-left - column-space) e.g. $gridGutter-10px=10px */ }
-  /* line 32, C:\htdocs\cve\sass\/simplegrid */
+  /* line 32, c:\htdocs\cve\sass\/simplegrid */
   .grid:after {
     content: "";
     display: table;
     clear: both; }
 
-/* line 38, C:\htdocs\cve\sass\/simplegrid */
+/* line 38, c:\htdocs\cve\sass\/simplegrid */
 .mobile-grid {
   padding: 0 8px 0 16px; }
 
-/* line 42, C:\htdocs\cve\sass\/simplegrid */
+/* line 42, c:\htdocs\cve\sass\/simplegrid */
 [class*='col-'] {
   width: auto;
   float: none;
@@ -1000,7 +1001,7 @@ body {
   padding-right: 0; }
 
 /* Mobile Layout */
-/* line 56, C:\htdocs\cve\sass\/simplegrid */
+/* line 56, c:\htdocs\cve\sass\/simplegrid */
 [class*='mobile-col-'] {
   float: left;
   margin-left: 0px;
@@ -1012,90 +1013,90 @@ body {
   /* column-space */
   padding-bottom: 0px; }
 
-/* line 67, C:\htdocs\cve\sass\/simplegrid */
+/* line 67, c:\htdocs\cve\sass\/simplegrid */
 .mobile-col-1-1 {
   width: 100%; }
 
-/* line 71, C:\htdocs\cve\sass\/simplegrid */
+/* line 71, c:\htdocs\cve\sass\/simplegrid */
 .mobile-col-3-4, .mobile-col-6-8, .mobile-col-9-12 {
   width: 75%; }
 
-/* line 74, C:\htdocs\cve\sass\/simplegrid */
+/* line 74, c:\htdocs\cve\sass\/simplegrid */
 .mobile-col-2-3, .mobile-col-4-6, .mobile-col-6-9, .mobile-col-8-12 {
   width: 66.66%; }
 
-/* line 78, C:\htdocs\cve\sass\/simplegrid */
+/* line 78, c:\htdocs\cve\sass\/simplegrid */
 .mobile-col-1-2, .mobile-col-2-4, .mobile-col-3-6, .mobile-col-4-8, .mobile-col-5-10, .mobile-col-6-12 {
   width: 50%; }
 
-/* line 82, C:\htdocs\cve\sass\/simplegrid */
+/* line 82, c:\htdocs\cve\sass\/simplegrid */
 .mobile-col-1-3, .mobile-col-2-6, .mobile-col-3-9, .mobile-col-4-12 {
   width: 33.33%; }
 
-/* line 86, C:\htdocs\cve\sass\/simplegrid */
+/* line 86, c:\htdocs\cve\sass\/simplegrid */
 .mobile-col-1-4, .mobile-col-2-8, .mobile-col-3-12 {
   width: 25%; }
 
-/* line 90, C:\htdocs\cve\sass\/simplegrid */
+/* line 90, c:\htdocs\cve\sass\/simplegrid */
 .mobile-col-1-5, .mobile-col-2-10 {
   width: 20%; }
 
-/* line 94, C:\htdocs\cve\sass\/simplegrid */
+/* line 94, c:\htdocs\cve\sass\/simplegrid */
 .mobile-col-1-6, .mobile-col-2-12 {
   width: 16.667%; }
 
-/* line 98, C:\htdocs\cve\sass\/simplegrid */
+/* line 98, c:\htdocs\cve\sass\/simplegrid */
 .mobile-col-1-7 {
   width: 14.28%; }
 
-/* line 102, C:\htdocs\cve\sass\/simplegrid */
+/* line 102, c:\htdocs\cve\sass\/simplegrid */
 .mobile-col-1-8 {
   width: 12.5%; }
 
-/* line 106, C:\htdocs\cve\sass\/simplegrid */
+/* line 106, c:\htdocs\cve\sass\/simplegrid */
 .mobile-col-1-9 {
   width: 11.1%; }
 
-/* line 110, C:\htdocs\cve\sass\/simplegrid */
+/* line 110, c:\htdocs\cve\sass\/simplegrid */
 .mobile-col-1-10 {
   width: 10%; }
 
-/* line 114, C:\htdocs\cve\sass\/simplegrid */
+/* line 114, c:\htdocs\cve\sass\/simplegrid */
 .mobile-col-1-11 {
   width: 9.09%; }
 
-/* line 118, C:\htdocs\cve\sass\/simplegrid */
+/* line 118, c:\htdocs\cve\sass\/simplegrid */
 .mobile-col-1-12 {
   width: 8.33%; }
 
 /* Layout Columns */
-/* line 124, C:\htdocs\cve\sass\/simplegrid */
+/* line 124, c:\htdocs\cve\sass\/simplegrid */
 .mobile-col-11-12 {
   width: 91.66%; }
 
-/* line 128, C:\htdocs\cve\sass\/simplegrid */
+/* line 128, c:\htdocs\cve\sass\/simplegrid */
 .mobile-col-10-12 {
   width: 83.333%; }
 
-/* line 132, C:\htdocs\cve\sass\/simplegrid */
+/* line 132, c:\htdocs\cve\sass\/simplegrid */
 .mobile-col-9-12 {
   width: 75%; }
 
-/* line 136, C:\htdocs\cve\sass\/simplegrid */
+/* line 136, c:\htdocs\cve\sass\/simplegrid */
 .mobile-col-5-12 {
   width: 41.66%; }
 
-/* line 140, C:\htdocs\cve\sass\/simplegrid */
+/* line 140, c:\htdocs\cve\sass\/simplegrid */
 .mobile-col-7-12 {
   width: 58.33%; }
 
-/* line 144, C:\htdocs\cve\sass\/simplegrid */
+/* line 144, c:\htdocs\cve\sass\/simplegrid */
 .hide-on-mobile {
   display: none !important;
   width: 0;
   height: 0; }
 
-/* line 150, C:\htdocs\cve\sass\/simplegrid */
+/* line 150, c:\htdocs\cve\sass\/simplegrid */
 [class*='col-'], [class*='mobile-col-'], .grid {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -1105,146 +1106,146 @@ body {
   /* Content Columns */
   /* Layout Columns */
   /* Pushing blocks */
-  /* line 156, C:\htdocs\cve\sass\/simplegrid */
+  /* line 156, c:\htdocs\cve\sass\/simplegrid */
   [class*='col-'] {
     float: left;
     padding-right: 16px;
     /* column-space */
     margin-top: 0;
     margin-bottom: 0; }
-  /* line 163, C:\htdocs\cve\sass\/simplegrid */
+  /* line 163, c:\htdocs\cve\sass\/simplegrid */
   .grid {
     width: 100%;
     max-width: 1010px;
     min-width: 776px;
     margin: 0 auto;
     padding-right: 0; }
-    /* line 169, C:\htdocs\cve\sass\/simplegrid */
+    /* line 169, c:\htdocs\cve\sass\/simplegrid */
     .grid.wide {
       max-width: 1140px; }
-    /* line 172, C:\htdocs\cve\sass\/simplegrid */
+    /* line 172, c:\htdocs\cve\sass\/simplegrid */
     .grid .grid {
       min-width: 0;
       max-width: none; }
-  /* line 177, C:\htdocs\cve\sass\/simplegrid */
+  /* line 177, c:\htdocs\cve\sass\/simplegrid */
   .wrapper {
     max-width: 1010px;
     margin: 0 auto; }
-  /* line 183, C:\htdocs\cve\sass\/simplegrid */
+  /* line 183, c:\htdocs\cve\sass\/simplegrid */
   .grid-pad {
     padding-top: 16px;
     padding-left: 16px;
     /* grid-space to left */
     padding-right: 0px;
     /* grid-space to right: (grid-space-left - column-space) e.g. $gridGutter-$gridGutter=0 */ }
-  /* line 189, C:\htdocs\cve\sass\/simplegrid */
+  /* line 189, c:\htdocs\cve\sass\/simplegrid */
   .grid-no-pad {
     padding-top: 0;
     padding-left: 0;
     padding-right: 0; }
-  /* line 195, C:\htdocs\cve\sass\/simplegrid */
+  /* line 195, c:\htdocs\cve\sass\/simplegrid */
   .push-right {
     float: right; }
-  /* line 201, C:\htdocs\cve\sass\/simplegrid */
+  /* line 201, c:\htdocs\cve\sass\/simplegrid */
   .col-1-1 {
     width: 100%; }
-  /* line 205, C:\htdocs\cve\sass\/simplegrid */
+  /* line 205, c:\htdocs\cve\sass\/simplegrid */
   .col-4-5, .col-8-10 {
     width: 80%; }
-  /* line 209, C:\htdocs\cve\sass\/simplegrid */
+  /* line 209, c:\htdocs\cve\sass\/simplegrid */
   .col-3-4, .col-6-8, .col-8-12 {
     width: 75%; }
-  /* line 213, C:\htdocs\cve\sass\/simplegrid */
+  /* line 213, c:\htdocs\cve\sass\/simplegrid */
   .col-2-3, .col-4-6, .col-6-9, .col-8-12 {
     width: 66.66%; }
-  /* line 217, C:\htdocs\cve\sass\/simplegrid */
+  /* line 217, c:\htdocs\cve\sass\/simplegrid */
   .col-3-5, .col-6-10 {
     width: 60%; }
-  /* line 221, C:\htdocs\cve\sass\/simplegrid */
+  /* line 221, c:\htdocs\cve\sass\/simplegrid */
   .col-1-2, .col-2-4, .col-3-6, .col-4-8, .col-5-10, .col-6-12 {
     width: 50%; }
-  /* line 225, C:\htdocs\cve\sass\/simplegrid */
+  /* line 225, c:\htdocs\cve\sass\/simplegrid */
   .col-2-5, .col-4-10 {
     width: 40%; }
-  /* line 229, C:\htdocs\cve\sass\/simplegrid */
+  /* line 229, c:\htdocs\cve\sass\/simplegrid */
   .col-1-3, .col-2-6, .col-3-9, .col-4-12 {
     width: 33.33%; }
-  /* line 233, C:\htdocs\cve\sass\/simplegrid */
+  /* line 233, c:\htdocs\cve\sass\/simplegrid */
   .col-1-4, .col-2-8, .col-3-12 {
     width: 25%; }
-  /* line 237, C:\htdocs\cve\sass\/simplegrid */
+  /* line 237, c:\htdocs\cve\sass\/simplegrid */
   .col-1-5, .col-2-10 {
     width: 20%; }
-  /* line 241, C:\htdocs\cve\sass\/simplegrid */
+  /* line 241, c:\htdocs\cve\sass\/simplegrid */
   .col-1-6, .col-2-12 {
     width: 16.667%; }
-  /* line 245, C:\htdocs\cve\sass\/simplegrid */
+  /* line 245, c:\htdocs\cve\sass\/simplegrid */
   .col-1-7 {
     width: 14.28%; }
-  /* line 249, C:\htdocs\cve\sass\/simplegrid */
+  /* line 249, c:\htdocs\cve\sass\/simplegrid */
   .col-1-8 {
     width: 12.5%; }
-  /* line 253, C:\htdocs\cve\sass\/simplegrid */
+  /* line 253, c:\htdocs\cve\sass\/simplegrid */
   .col-1-9 {
     width: 11.1%; }
-  /* line 257, C:\htdocs\cve\sass\/simplegrid */
+  /* line 257, c:\htdocs\cve\sass\/simplegrid */
   .col-1-10 {
     width: 10%; }
-  /* line 261, C:\htdocs\cve\sass\/simplegrid */
+  /* line 261, c:\htdocs\cve\sass\/simplegrid */
   .col-1-11 {
     width: 9.09%; }
-  /* line 265, C:\htdocs\cve\sass\/simplegrid */
+  /* line 265, c:\htdocs\cve\sass\/simplegrid */
   .col-1-12 {
     width: 8.33%; }
-  /* line 271, C:\htdocs\cve\sass\/simplegrid */
+  /* line 271, c:\htdocs\cve\sass\/simplegrid */
   .col-11-12 {
     width: 91.66%; }
-  /* line 275, C:\htdocs\cve\sass\/simplegrid */
+  /* line 275, c:\htdocs\cve\sass\/simplegrid */
   .col-10-12 {
     width: 83.333%; }
-  /* line 279, C:\htdocs\cve\sass\/simplegrid */
+  /* line 279, c:\htdocs\cve\sass\/simplegrid */
   .col-9-12 {
     width: 75%; }
-  /* line 283, C:\htdocs\cve\sass\/simplegrid */
+  /* line 283, c:\htdocs\cve\sass\/simplegrid */
   .col-5-12 {
     width: 41.66%; }
-  /* line 287, C:\htdocs\cve\sass\/simplegrid */
+  /* line 287, c:\htdocs\cve\sass\/simplegrid */
   .col-7-12 {
     width: 58.33%; }
-  /* line 295, C:\htdocs\cve\sass\/simplegrid */
+  /* line 295, c:\htdocs\cve\sass\/simplegrid */
   .push-2-3, .push-4-6, .push-6-9, .push-8-12 {
     margin-left: 66.66%; }
-  /* line 299, C:\htdocs\cve\sass\/simplegrid */
+  /* line 299, c:\htdocs\cve\sass\/simplegrid */
   .push-1-2, .push-2-4, .push-3-6, .push-4-8, .push-5-10, .push-6-12 {
     margin-left: 50%; }
-  /* line 303, C:\htdocs\cve\sass\/simplegrid */
+  /* line 303, c:\htdocs\cve\sass\/simplegrid */
   .push-1-3, .push-2-6, .push-3-9, .push-4-12 {
     margin-left: 33.33%; }
-  /* line 307, C:\htdocs\cve\sass\/simplegrid */
+  /* line 307, c:\htdocs\cve\sass\/simplegrid */
   .push-1-4, .push-2-8, .push-3-12 {
     margin-left: 25%; }
-  /* line 311, C:\htdocs\cve\sass\/simplegrid */
+  /* line 311, c:\htdocs\cve\sass\/simplegrid */
   .push-1-5, .push-2-10 {
     margin-left: 20%; }
-  /* line 315, C:\htdocs\cve\sass\/simplegrid */
+  /* line 315, c:\htdocs\cve\sass\/simplegrid */
   .push-1-6, .push-2-12 {
     margin-left: 16.667%; }
-  /* line 319, C:\htdocs\cve\sass\/simplegrid */
+  /* line 319, c:\htdocs\cve\sass\/simplegrid */
   .push-1-7 {
     margin-left: 14.28%; }
-  /* line 323, C:\htdocs\cve\sass\/simplegrid */
+  /* line 323, c:\htdocs\cve\sass\/simplegrid */
   .push-1-8 {
     margin-left: 12.5%; }
-  /* line 327, C:\htdocs\cve\sass\/simplegrid */
+  /* line 327, c:\htdocs\cve\sass\/simplegrid */
   .push-1-9 {
     margin-left: 11.1%; }
-  /* line 331, C:\htdocs\cve\sass\/simplegrid */
+  /* line 331, c:\htdocs\cve\sass\/simplegrid */
   .push-1-10 {
     margin-left: 10%; }
-  /* line 335, C:\htdocs\cve\sass\/simplegrid */
+  /* line 335, c:\htdocs\cve\sass\/simplegrid */
   .push-1-11 {
     margin-left: 9.09%; }
-  /* line 339, C:\htdocs\cve\sass\/simplegrid */
+  /* line 339, c:\htdocs\cve\sass\/simplegrid */
   .push-1-12 {
     margin-left: 8.33%; } }
 
@@ -1253,90 +1254,90 @@ body {
                       COLUMAS Table
 *******************************************************************************/
 @media (min-width: 776px) {
-  /* line 351, C:\htdocs\cve\sass\/simplegrid */
+  /* line 351, c:\htdocs\cve\sass\/simplegrid */
   .columnas {
     width: 100%;
     display: table;
     border-collapse: collapse; }
-  /* line 357, C:\htdocs\cve\sass\/simplegrid */
+  /* line 357, c:\htdocs\cve\sass\/simplegrid */
   [class*='columna-'] {
     display: table-cell; }
-  /* line 361, C:\htdocs\cve\sass\/simplegrid */
+  /* line 361, c:\htdocs\cve\sass\/simplegrid */
   .columna-1-1 {
     width: 100%; }
-  /* line 365, C:\htdocs\cve\sass\/simplegrid */
+  /* line 365, c:\htdocs\cve\sass\/simplegrid */
   .columna-4-5, .columna-8-10 {
     width: 80%; }
-  /* line 369, C:\htdocs\cve\sass\/simplegrid */
+  /* line 369, c:\htdocs\cve\sass\/simplegrid */
   .columna-3-4, .columna-6-8, .columna-8-12 {
     width: 75%; }
-  /* line 373, C:\htdocs\cve\sass\/simplegrid */
+  /* line 373, c:\htdocs\cve\sass\/simplegrid */
   .columna-2-3, .columna-4-6, .columna-6-9, .columna-8-12 {
     width: 66.66%; }
-  /* line 377, C:\htdocs\cve\sass\/simplegrid */
+  /* line 377, c:\htdocs\cve\sass\/simplegrid */
   .columna-3-5, .columna-6-10 {
     width: 60%; }
-  /* line 381, C:\htdocs\cve\sass\/simplegrid */
+  /* line 381, c:\htdocs\cve\sass\/simplegrid */
   .columna-1-2, .columna-2-4, .columna-3-6, .columna-4-8, .columna-5-10, .columna-6-12 {
     width: 50%; }
-  /* line 385, C:\htdocs\cve\sass\/simplegrid */
+  /* line 385, c:\htdocs\cve\sass\/simplegrid */
   .columna-2-5, .columna-4-10 {
     width: 40%; }
-  /* line 389, C:\htdocs\cve\sass\/simplegrid */
+  /* line 389, c:\htdocs\cve\sass\/simplegrid */
   .columna-1-3, .columna-2-6, .columna-3-9, .columna-4-12 {
     width: 33.33%; }
-  /* line 393, C:\htdocs\cve\sass\/simplegrid */
+  /* line 393, c:\htdocs\cve\sass\/simplegrid */
   .columna-1-4, .columna-2-8, .columna-3-12 {
     width: 25%; }
-  /* line 397, C:\htdocs\cve\sass\/simplegrid */
+  /* line 397, c:\htdocs\cve\sass\/simplegrid */
   .columna-1-5, .columna-2-10 {
     width: 20%; }
-  /* line 401, C:\htdocs\cve\sass\/simplegrid */
+  /* line 401, c:\htdocs\cve\sass\/simplegrid */
   .columna-1-6, .columna-2-12 {
     width: 16.667%; }
-  /* line 405, C:\htdocs\cve\sass\/simplegrid */
+  /* line 405, c:\htdocs\cve\sass\/simplegrid */
   .columna-1-7 {
     width: 14.28%; }
-  /* line 409, C:\htdocs\cve\sass\/simplegrid */
+  /* line 409, c:\htdocs\cve\sass\/simplegrid */
   .columna-1-8 {
     width: 12.5%; }
-  /* line 413, C:\htdocs\cve\sass\/simplegrid */
+  /* line 413, c:\htdocs\cve\sass\/simplegrid */
   .columna-1-9 {
     width: 11.1%; }
-  /* line 417, C:\htdocs\cve\sass\/simplegrid */
+  /* line 417, c:\htdocs\cve\sass\/simplegrid */
   .columna-1-10 {
     width: 10%; }
-  /* line 421, C:\htdocs\cve\sass\/simplegrid */
+  /* line 421, c:\htdocs\cve\sass\/simplegrid */
   .columna-1-11 {
     width: 9.09%; }
-  /* line 425, C:\htdocs\cve\sass\/simplegrid */
+  /* line 425, c:\htdocs\cve\sass\/simplegrid */
   .columna-1-12 {
     width: 8.33%; }
-  /* line 429, C:\htdocs\cve\sass\/simplegrid */
+  /* line 429, c:\htdocs\cve\sass\/simplegrid */
   .columna-11-12 {
     width: 91.66%; }
-  /* line 433, C:\htdocs\cve\sass\/simplegrid */
+  /* line 433, c:\htdocs\cve\sass\/simplegrid */
   .columna-10-12 {
     width: 83.333%; }
-  /* line 437, C:\htdocs\cve\sass\/simplegrid */
+  /* line 437, c:\htdocs\cve\sass\/simplegrid */
   .columna-9-12 {
     width: 75%; }
-  /* line 441, C:\htdocs\cve\sass\/simplegrid */
+  /* line 441, c:\htdocs\cve\sass\/simplegrid */
   .columna-5-12 {
     width: 41.66%; }
-  /* line 445, C:\htdocs\cve\sass\/simplegrid */
+  /* line 445, c:\htdocs\cve\sass\/simplegrid */
   .columna-7-12 {
     width: 58.33%; } }
 
-/* line 12, C:\htdocs\cve\sass\styles.scss */
+/* line 12, c:\htdocs\cve\sass\styles.scss */
 body {
   font-weight: 300; }
 
-/* line 15, C:\htdocs\cve\sass\styles.scss */
+/* line 15, c:\htdocs\cve\sass\styles.scss */
 hr, .separa {
   background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkQ4OThEQjA5MjcyNjExRTQ4MjA3OEE4MUYzOTAzOEU1IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkQ4OThEQjBBMjcyNjExRTQ4MjA3OEE4MUYzOTAzOEU1Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6RDg5OERCMDcyNzI2MTFFNDgyMDc4QTgxRjM5MDM4RTUiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6RDg5OERCMDgyNzI2MTFFNDgyMDc4QTgxRjM5MDM4RTUiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz65hmBpAAAABlBMVEXR0dH///9WxthCAAAAAnRSTlP/AOW3MEoAAAAUSURBVHjaYmAEAgYgBCMGMAEQYAAAlwAMg6JOYgAAAABJRU5ErkJggg==) 0 0 repeat-x; }
 
-/* line 18, C:\htdocs\cve\sass\styles.scss */
+/* line 18, c:\htdocs\cve\sass\styles.scss */
 hr, hr.separa {
   height: 3px;
   border: none;
@@ -1349,7 +1350,7 @@ hr, hr.separa {
   font-weight: normal;
   font-style: normal; }
 
-/* line 14, C:\htdocs\cve\sass\/fonts */
+/* line 14, c:\htdocs\cve\sass\/fonts */
 [class^="icon-"]:before, [class^="icon-"]:after, [class*=" icon-"]:before, [class*=" icon-"]:after {
   font-family: 'icomoon';
   speak: none;
@@ -1362,77 +1363,77 @@ hr, hr.separa {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
-/* line 29, C:\htdocs\cve\sass\/fonts */
+/* line 29, c:\htdocs\cve\sass\/fonts */
 .icon-uniE600:before {
   content: "\e600"; }
 
-/* line 32, C:\htdocs\cve\sass\/fonts */
+/* line 32, c:\htdocs\cve\sass\/fonts */
 .icon-thinarrowright:before {
   content: "\e601"; }
 
-/* line 35, C:\htdocs\cve\sass\/fonts */
+/* line 35, c:\htdocs\cve\sass\/fonts */
 .icon-lightarrowright:before {
   content: "\e602"; }
 
-/* line 38, C:\htdocs\cve\sass\/fonts */
+/* line 38, c:\htdocs\cve\sass\/fonts */
 .icon-play:before {
   content: "\e603"; }
 
-/* line 42, C:\htdocs\cve\sass\/fonts */
+/* line 42, c:\htdocs\cve\sass\/fonts */
 .icon-uniE600-after:after {
   content: "\e600"; }
 
-/* line 45, C:\htdocs\cve\sass\/fonts */
+/* line 45, c:\htdocs\cve\sass\/fonts */
 .icon-thinarrowright-after:after {
   content: "\e601"; }
 
-/* line 48, C:\htdocs\cve\sass\/fonts */
+/* line 48, c:\htdocs\cve\sass\/fonts */
 .icon-lightarrowright-after:after {
   content: "\e602"; }
 
-/* line 51, C:\htdocs\cve\sass\/fonts */
+/* line 51, c:\htdocs\cve\sass\/fonts */
 .icon-play-after:after {
   content: "\e603"; }
 
-/* line 6, C:\htdocs\cve\sass\/header */
+/* line 6, c:\htdocs\cve\sass\/header */
 .logo-holder {
   display: block;
   padding: 19px 0 15px 40px;
   text-align: left; }
-  /* line 10, C:\htdocs\cve\sass\/header */
+  /* line 10, c:\htdocs\cve\sass\/header */
   .logo-holder img {
     width: 370px;
     max-width: 100%; }
 
-/* line 1, C:\htdocs\cve\sass\/navigation */
+/* line 1, c:\htdocs\cve\sass\/navigation */
 nav {
   font-family: 'Lato', Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans-serif; }
-  /* line 4, C:\htdocs\cve\sass\/navigation */
+  /* line 4, c:\htdocs\cve\sass\/navigation */
   nav li ul {
     display: none; }
-  /* line 9, C:\htdocs\cve\sass\/navigation */
+  /* line 9, c:\htdocs\cve\sass\/navigation */
   nav a:link, nav a:visited {
     text-decoration: none;
     color: #404041; }
 
-/* line 23, C:\htdocs\cve\sass\/navigation */
+/* line 23, c:\htdocs\cve\sass\/navigation */
 header {
   font-size: 0.875em; }
-  /* line 25, C:\htdocs\cve\sass\/navigation */
+  /* line 25, c:\htdocs\cve\sass\/navigation */
   header nav {
     background-color: #E6E5E4;
     border-bottom: 5px solid white;
     -webkit-transition: border-color 0.5s linear;
     transition: border-color 0.5s linear;
     margin-bottom: -5px; }
-    /* line 30, C:\htdocs\cve\sass\/navigation */
+    /* line 30, c:\htdocs\cve\sass\/navigation */
     header nav.hover {
       border-bottom-color: #B61E2D; }
-    /* line 33, C:\htdocs\cve\sass\/navigation */
+    /* line 33, c:\htdocs\cve\sass\/navigation */
     header nav > ul {
       text-align: right;
       font-size: 0; }
-      /* line 36, C:\htdocs\cve\sass\/navigation */
+      /* line 36, c:\htdocs\cve\sass\/navigation */
       header nav > ul div {
         text-align: left;
         display: block;
@@ -1449,16 +1450,16 @@ header {
         opacity: 0;
         -webkit-transition: visibility 0 linear, opacity 0.4s linear, left 0.7s ease-in-out;
         transition: visibility 0 linear, opacity 0.4s linear, left 0.7s ease-in-out; }
-        /* line 50, C:\htdocs\cve\sass\/navigation */
+        /* line 50, c:\htdocs\cve\sass\/navigation */
         header nav > ul div ul {
           padding: 30px;
           border: 1px solid #E6E5E4;
           border-top: none;
           display: block; }
-        /* line 56, C:\htdocs\cve\sass\/navigation */
+        /* line 56, c:\htdocs\cve\sass\/navigation */
         header nav > ul div li {
           list-style: none; }
-        /* line 59, C:\htdocs\cve\sass\/navigation */
+        /* line 59, c:\htdocs\cve\sass\/navigation */
         header nav > ul div a {
           font-size: 13px;
           line-height: 16px;
@@ -1466,40 +1467,40 @@ header {
           min-height: 16px;
           text-transform: none;
           padding: 4px 0 3px 0; }
-          /* line 66, C:\htdocs\cve\sass\/navigation */
+          /* line 66, c:\htdocs\cve\sass\/navigation */
           header nav > ul div a:link, header nav > ul div a:visited {
             border-bottom: 1px solid #C8CACB;
             color: #231F20;
             font-weight: 300; }
-          /* line 71, C:\htdocs\cve\sass\/navigation */
+          /* line 71, c:\htdocs\cve\sass\/navigation */
           header nav > ul div a:hover, header nav > ul div a:active {
             border-bottom: 1px solid #E6E5E4;
             color: #B61E2D;
             font-weight: 600;
             background-color: transparent; }
-      /* line 79, C:\htdocs\cve\sass\/navigation */
+      /* line 79, c:\htdocs\cve\sass\/navigation */
       header nav > ul .to-derecha div {
         left: auto;
         right: -20%;
         -webkit-transition: visibility 0 linear, opacity 0.4s linear, right 0.7s ease-in-out;
         transition: visibility 0 linear, opacity 0.4s linear, right 0.7s ease-in-out; }
-      /* line 84, C:\htdocs\cve\sass\/navigation */
+      /* line 84, c:\htdocs\cve\sass\/navigation */
       header nav > ul > li {
         display: inline-block;
         position: relative;
         background-color: transparent;
         -webkit-transition: background-color 1s linear;
         transition: background-color 1s linear; }
-        /* line 90, C:\htdocs\cve\sass\/navigation */
+        /* line 90, c:\htdocs\cve\sass\/navigation */
         header nav > ul > li:first-child a:before, header nav > ul > li:first-child span:before {
           content: none; }
-        /* line 93, C:\htdocs\cve\sass\/navigation */
+        /* line 93, c:\htdocs\cve\sass\/navigation */
         header nav > ul > li a, header nav > ul > li span {
           font-size: 14px; }
-        /* line 97, C:\htdocs\cve\sass\/navigation */
+        /* line 97, c:\htdocs\cve\sass\/navigation */
         header nav > ul > li > a, header nav > ul > li > span {
           position: relative; }
-          /* line 99, C:\htdocs\cve\sass\/navigation */
+          /* line 99, c:\htdocs\cve\sass\/navigation */
           header nav > ul > li > a:before, header nav > ul > li > span:before {
             content: ' ';
             position: absolute;
@@ -1512,26 +1513,26 @@ header {
             -webkit-border-radius: 2px;
             border-radius: 2px;
             background-color: #B3B5B7; }
-        /* line 112, C:\htdocs\cve\sass\/navigation */
+        /* line 112, c:\htdocs\cve\sass\/navigation */
         header nav > ul > li:hover {
           background-color: #B61E2D; }
-          /* line 114, C:\htdocs\cve\sass\/navigation */
+          /* line 114, c:\htdocs\cve\sass\/navigation */
           header nav > ul > li:hover > a, header nav > ul > li:hover > span {
             color: white; }
-          /* line 117, C:\htdocs\cve\sass\/navigation */
+          /* line 117, c:\htdocs\cve\sass\/navigation */
           header nav > ul > li:hover div {
             visibility: visible;
             opacity: 1;
             left: 0; }
-        /* line 123, C:\htdocs\cve\sass\/navigation */
+        /* line 123, c:\htdocs\cve\sass\/navigation */
         header nav > ul > li.to-derecha:hover div {
           left: auto;
           right: 0; }
-        /* line 128, C:\htdocs\cve\sass\/navigation */
+        /* line 128, c:\htdocs\cve\sass\/navigation */
         header nav > ul > li.ancestor, header nav > ul > li.selected {
           background: #b4b6b7;
           color: white; }
-    /* line 134, C:\htdocs\cve\sass\/navigation */
+    /* line 134, c:\htdocs\cve\sass\/navigation */
     header nav a, header nav span {
       display: block;
       height: 40px;
@@ -1542,40 +1543,40 @@ header {
       -webkit-transition: background-color 1s linear;
       transition: background-color 1s linear;
       cursor: pointer; }
-      /* line 143, C:\htdocs\cve\sass\/navigation */
+      /* line 143, c:\htdocs\cve\sass\/navigation */
       header nav a:link, header nav a:visited, header nav span:link, header nav span:visited {
         color: #231F20;
         background-color: transparent; }
-      /* line 147, C:\htdocs\cve\sass\/navigation */
+      /* line 147, c:\htdocs\cve\sass\/navigation */
       header nav a:hover, header nav a:active, header nav span:hover, header nav span:active {
         background-color: #B61E2D;
         color: white; }
 
-/* line 155, C:\htdocs\cve\sass\/navigation */
+/* line 155, c:\htdocs\cve\sass\/navigation */
 .columna nav {
   margin: 0 -16px;
   padding: 16px;
   padding-top: 0; }
-  /* line 159, C:\htdocs\cve\sass\/navigation */
+  /* line 159, c:\htdocs\cve\sass\/navigation */
   .columna nav ul {
     border-right: 1px solid #C8CACB; }
-  /* line 162, C:\htdocs\cve\sass\/navigation */
+  /* line 162, c:\htdocs\cve\sass\/navigation */
   .columna nav li {
     border-bottom: 1px solid #C8CACB;
     padding-left: 16px; }
-    /* line 165, C:\htdocs\cve\sass\/navigation */
+    /* line 165, c:\htdocs\cve\sass\/navigation */
     .columna nav li:first-child {
       border-top: 1px solid #C8CACB; }
-    /* line 170, C:\htdocs\cve\sass\/navigation */
+    /* line 170, c:\htdocs\cve\sass\/navigation */
     .columna nav li.activo a:link, .columna nav li.activo a:visited, .columna nav li.selected a:link, .columna nav li.selected a:visited {
       color: #B61E2D; }
-      /* line 172, C:\htdocs\cve\sass\/navigation */
+      /* line 172, c:\htdocs\cve\sass\/navigation */
       .premio-pyme .columna nav li.activo a:link, .premio-pyme .columna nav li.activo a:visited, .premio-pyme .columna nav li.selected a:link, .premio-pyme .columna nav li.selected a:visited {
         color: #027977; }
-      /* line 173, C:\htdocs\cve\sass\/navigation */
+      /* line 173, c:\htdocs\cve\sass\/navigation */
       .catedra .columna nav li.activo a:link, .catedra .columna nav li.activo a:visited, .catedra .columna nav li.selected a:link, .catedra .columna nav li.selected a:visited {
         color: #33699B; }
-    /* line 175, C:\htdocs\cve\sass\/navigation */
+    /* line 175, c:\htdocs\cve\sass\/navigation */
     .columna nav li.activo a:after, .columna nav li.selected a:after {
       content: "\e602";
       font-family: 'icomoon';
@@ -1591,50 +1592,50 @@ header {
       margin-left: 0.5em;
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale; }
-    /* line 190, C:\htdocs\cve\sass\/navigation */
+    /* line 190, c:\htdocs\cve\sass\/navigation */
     .columna nav li.activo a:hover, .columna nav li.activo a:active, .columna nav li.selected a:hover, .columna nav li.selected a:active {
       text-decoration: none; }
-  /* line 196, C:\htdocs\cve\sass\/navigation */
+  /* line 196, c:\htdocs\cve\sass\/navigation */
   .columna nav a {
     display: block;
     min-height: 40px;
     line-height: 40px;
     font-weight: 600; }
-    /* line 201, C:\htdocs\cve\sass\/navigation */
+    /* line 201, c:\htdocs\cve\sass\/navigation */
     .columna nav a:link, .columna nav a:visited {
       color: #58595B; }
-    /* line 204, C:\htdocs\cve\sass\/navigation */
+    /* line 204, c:\htdocs\cve\sass\/navigation */
     .columna nav a:hover, .columna nav a:active {
       text-decoration: underline;
       color: #B61E2D; }
-      /* line 207, C:\htdocs\cve\sass\/navigation */
+      /* line 207, c:\htdocs\cve\sass\/navigation */
       .premio-pyme .columna nav a:hover, .premio-pyme .columna nav a:active {
         color: #027977; }
-      /* line 208, C:\htdocs\cve\sass\/navigation */
+      /* line 208, c:\htdocs\cve\sass\/navigation */
       .catedra .columna nav a:hover, .catedra .columna nav a:active {
         color: #33699B; }
 
-/* line 214, C:\htdocs\cve\sass\/navigation */
+/* line 214, c:\htdocs\cve\sass\/navigation */
 footer nav {
   font-size: 0.875em; }
-  /* line 216, C:\htdocs\cve\sass\/navigation */
+  /* line 216, c:\htdocs\cve\sass\/navigation */
   footer nav > ul {
     -webkit-column-count: 2;
     -moz-column-count: 2;
     column-count: 2; }
-    /* line 218, C:\htdocs\cve\sass\/navigation */
+    /* line 218, c:\htdocs\cve\sass\/navigation */
     footer nav > ul li {
       padding-bottom: 1px; }
-      /* line 220, C:\htdocs\cve\sass\/navigation */
+      /* line 220, c:\htdocs\cve\sass\/navigation */
       footer nav > ul li a {
         display: block;
         line-height: 40px;
         padding: 0 16px; }
-        /* line 224, C:\htdocs\cve\sass\/navigation */
+        /* line 224, c:\htdocs\cve\sass\/navigation */
         footer nav > ul li a:link, footer nav > ul li a:visited {
           border-bottom: 1px solid #C8CACB;
           color: #231F20; }
-        /* line 228, C:\htdocs\cve\sass\/navigation */
+        /* line 228, c:\htdocs\cve\sass\/navigation */
         footer nav > ul li a:hover, footer nav > ul li a:active {
           border-bottom: 1px solid #6D6E70;
           color: #B61E2D; }
@@ -1642,64 +1643,64 @@ footer nav {
 /**
  * Para evitar tanta anidación, está monstruoso!
  */
-/* line 244, C:\htdocs\cve\sass\/navigation */
+/* line 244, c:\htdocs\cve\sass\/navigation */
 .con-sub-sub-categorias li.rojo ul > li a:hover {
   color: #B61E2D; }
-/* line 252, C:\htdocs\cve\sass\/navigation */
+/* line 252, c:\htdocs\cve\sass\/navigation */
 .con-sub-sub-categorias li.verde ul > li a:hover {
   color: #027977; }
-/* line 260, C:\htdocs\cve\sass\/navigation */
+/* line 260, c:\htdocs\cve\sass\/navigation */
 .con-sub-sub-categorias li.azul ul > li a:hover {
   color: #33699B; }
 
 @media (min-width: 960px) {
-  /* line 270, C:\htdocs\cve\sass\/navigation */
+  /* line 270, c:\htdocs\cve\sass\/navigation */
   header nav > ul {
     position: relative; }
-    /* line 273, C:\htdocs\cve\sass\/navigation */
+    /* line 273, c:\htdocs\cve\sass\/navigation */
     header nav > ul > li.con-sub-sub-categorias {
       position: static; }
-      /* line 275, C:\htdocs\cve\sass\/navigation */
+      /* line 275, c:\htdocs\cve\sass\/navigation */
       header nav > ul > li.con-sub-sub-categorias div {
         width: 100%; }
-        /* line 277, C:\htdocs\cve\sass\/navigation */
+        /* line 277, c:\htdocs\cve\sass\/navigation */
         header nav > ul > li.con-sub-sub-categorias div > ul {
           display: table;
           -webkit-box-sizing: border-box;
           -moz-box-sizing: border-box;
           box-sizing: border-box;
           width: 100%; }
-          /* line 282, C:\htdocs\cve\sass\/navigation */
+          /* line 282, c:\htdocs\cve\sass\/navigation */
           header nav > ul > li.con-sub-sub-categorias div > ul > li > a {
             font-weight: 600;
             margin-right: 32px; }
-          /* line 286, C:\htdocs\cve\sass\/navigation */
+          /* line 286, c:\htdocs\cve\sass\/navigation */
           header nav > ul > li.con-sub-sub-categorias div > ul > li.rojo > a:link, header nav > ul > li.con-sub-sub-categorias div > ul > li.rojo > a:visited {
             color: #B61E2D; }
-          /* line 289, C:\htdocs\cve\sass\/navigation */
+          /* line 289, c:\htdocs\cve\sass\/navigation */
           header nav > ul > li.con-sub-sub-categorias div > ul > li.verde > a:link, header nav > ul > li.con-sub-sub-categorias div > ul > li.verde > a:visited {
             color: #027977; }
-          /* line 292, C:\htdocs\cve\sass\/navigation */
+          /* line 292, c:\htdocs\cve\sass\/navigation */
           header nav > ul > li.con-sub-sub-categorias div > ul > li.azul > a:link, header nav > ul > li.con-sub-sub-categorias div > ul > li.azul > a:visited {
             color: #33699B; }
-          /* line 296, C:\htdocs\cve\sass\/navigation */
+          /* line 296, c:\htdocs\cve\sass\/navigation */
           header nav > ul > li.con-sub-sub-categorias div > ul ul {
             border: none;
             padding-left: 0; }
-            /* line 299, C:\htdocs\cve\sass\/navigation */
+            /* line 299, c:\htdocs\cve\sass\/navigation */
             header nav > ul > li.con-sub-sub-categorias div > ul ul a {
               padding-left: 16px; }
-  /* line 313, C:\htdocs\cve\sass\/navigation */
+  /* line 313, c:\htdocs\cve\sass\/navigation */
   .no-touch .columna nav a {
     min-height: 32px;
     line-height: 32px; }
-  /* line 321, C:\htdocs\cve\sass\/navigation */
+  /* line 321, c:\htdocs\cve\sass\/navigation */
   footer nav {
     position: relative;
     top: -11px; } }
 
-/* line 1, C:\htdocs\cve\sass\/portada */
-.boton, .verbo {
+/* line 1, c:\htdocs\cve\sass\/portada */
+.verbo {
   width: 168px;
   height: 38px;
   line-height: 38px;
@@ -1710,8 +1711,8 @@ footer nav {
   font-size: 1.285em;
   padding-left: 15px;
   background-color: #B61E2D; }
-  /* line 12, C:\htdocs\cve\sass\/portada */
-  .boton:before, .verbo:before {
+  /* line 12, c:\htdocs\cve\sass\/portada */
+  .verbo:before {
     content: ' ';
     width: 0;
     height: 0;
@@ -1720,46 +1721,46 @@ footer nav {
     position: absolute;
     top: 0;
     right: -38px; }
-  /* line 22, C:\htdocs\cve\sass\/portada */
-  .boton:after, .verbo:after {
+  /* line 22, c:\htdocs\cve\sass\/portada */
+  .verbo:after {
     -webkit-transition: right 0.5s ease-out;
     transition: right 0.5s ease-out;
     position: absolute;
     top: 9px;
     right: -12px; }
-  /* line 28, C:\htdocs\cve\sass\/portada */
-  .boton.verde-bg, .verbo.verde-bg {
+  /* line 28, c:\htdocs\cve\sass\/portada */
+  .verbo.verde-bg {
     background-color: #3CB5A9; }
-    /* line 30, C:\htdocs\cve\sass\/portada */
-    .boton.verde-bg:before, .verbo.verde-bg:before {
+    /* line 30, c:\htdocs\cve\sass\/portada */
+    .verbo.verde-bg:before {
       border-left-color: #3CB5A9; }
-  /* line 34, C:\htdocs\cve\sass\/portada */
-  .boton.azul-bg, .verbo.azul-bg {
+  /* line 34, c:\htdocs\cve\sass\/portada */
+  .verbo.azul-bg {
     background-color: #4E8BC7; }
-    /* line 36, C:\htdocs\cve\sass\/portada */
-    .boton.azul-bg:before, .verbo.azul-bg:before {
+    /* line 36, c:\htdocs\cve\sass\/portada */
+    .verbo.azul-bg:before {
       border-left-color: #4E8BC7; }
 
-/* line 41, C:\htdocs\cve\sass\/portada */
+/* line 41, c:\htdocs\cve\sass\/portada */
 .call-to-action {
   padding-top: 16px;
   font-size: 0.875em; }
-  /* line 44, C:\htdocs\cve\sass\/portada */
+  /* line 44, c:\htdocs\cve\sass\/portada */
   .call-to-action .llamada {
     -webkit-transform: translateZ(0);
     transform: translateZ(0);
     font-family: "Open Sans", Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 300; }
-  /* line 49, C:\htdocs\cve\sass\/portada */
+  /* line 49, c:\htdocs\cve\sass\/portada */
   .call-to-action * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box; }
-  /* line 52, C:\htdocs\cve\sass\/portada */
+  /* line 52, c:\htdocs\cve\sass\/portada */
   .call-to-action .title-holder {
     height: 90px;
     padding: 18px 15px 8px 15px; }
-  /* line 56, C:\htdocs\cve\sass\/portada */
+  /* line 56, c:\htdocs\cve\sass\/portada */
   .call-to-action h3 {
     font-family: Georgia, Constantia, "DejaVu Serif", serif;
     font-weight: normal;
@@ -1769,116 +1770,116 @@ footer nav {
     vertical-align: middle;
     line-height: 1.0125em;
     margin: 0; }
-  /* line 66, C:\htdocs\cve\sass\/portada */
+  /* line 66, c:\htdocs\cve\sass\/portada */
   .call-to-action .img-holder {
     overflow: hidden; }
-    /* line 68, C:\htdocs\cve\sass\/portada */
+    /* line 68, c:\htdocs\cve\sass\/portada */
     .call-to-action .img-holder img {
       -webkit-transition: -webkit-transform 0.7s ease-in-out;
       transition: transform 0.7s ease-in-out; }
-  /* line 72, C:\htdocs\cve\sass\/portada */
+  /* line 72, c:\htdocs\cve\sass\/portada */
   .call-to-action .bajada-holder {
     background-color: #E6E5E4;
     padding: 38px 15px 15px;
     height: 132px; }
-    /* line 76, C:\htdocs\cve\sass\/portada */
+    /* line 76, c:\htdocs\cve\sass\/portada */
     .call-to-action .bajada-holder p {
       margin: 0; }
-  /* line 81, C:\htdocs\cve\sass\/portada */
+  /* line 81, c:\htdocs\cve\sass\/portada */
   .call-to-action a:link, .call-to-action a:visited {
     text-decoration: none; }
-    /* line 83, C:\htdocs\cve\sass\/portada */
+    /* line 83, c:\htdocs\cve\sass\/portada */
     .call-to-action a:link h3, .call-to-action a:visited h3 {
       color: white; }
-    /* line 86, C:\htdocs\cve\sass\/portada */
+    /* line 86, c:\htdocs\cve\sass\/portada */
     .call-to-action a:link .verbo, .call-to-action a:visited .verbo {
       color: white; }
-      /* line 88, C:\htdocs\cve\sass\/portada */
+      /* line 88, c:\htdocs\cve\sass\/portada */
       .call-to-action a:link .verbo:after, .call-to-action a:visited .verbo:after {
         right: -6px; }
-    /* line 93, C:\htdocs\cve\sass\/portada */
+    /* line 93, c:\htdocs\cve\sass\/portada */
     .call-to-action a:link .img-holder img, .call-to-action a:visited .img-holder img {
       -webkit-transform: scale(1.05);
       -ms-transform: scale(1.05);
       transform: scale(1.05); }
-    /* line 97, C:\htdocs\cve\sass\/portada */
+    /* line 97, c:\htdocs\cve\sass\/portada */
     .call-to-action a:link .bajada-holder, .call-to-action a:visited .bajada-holder {
       color: #404041; }
-  /* line 103, C:\htdocs\cve\sass\/portada */
+  /* line 103, c:\htdocs\cve\sass\/portada */
   .call-to-action a:hover .verbo:after, .call-to-action a:active .verbo:after {
     right: -12px; }
-  /* line 108, C:\htdocs\cve\sass\/portada */
+  /* line 108, c:\htdocs\cve\sass\/portada */
   .call-to-action a:hover .img-holder img, .call-to-action a:active .img-holder img {
     -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
     transform: scale(1.2); }
-  /* line 112, C:\htdocs\cve\sass\/portada */
+  /* line 112, c:\htdocs\cve\sass\/portada */
   .call-to-action a:hover .bajada-holder, .call-to-action a:active .bajada-holder {
     color: #231F20; }
 
-/* line 122, C:\htdocs\cve\sass\/portada */
+/* line 122, c:\htdocs\cve\sass\/portada */
 h2 {
   font-family: Georgia, Constantia, "DejaVu Serif", serif;
   font-weight: normal;
   font-style: italic;
   font-size: 1.6875em;
   line-height: 1.5em; }
-  /* line 128, C:\htdocs\cve\sass\/portada */
+  /* line 128, c:\htdocs\cve\sass\/portada */
   h2.grid {
     padding-left: 2em; }
 
-/* line 133, C:\htdocs\cve\sass\/portada */
+/* line 133, c:\htdocs\cve\sass\/portada */
 .destacado-portada {
   padding-top: 1.25em; }
-  /* line 135, C:\htdocs\cve\sass\/portada */
+  /* line 135, c:\htdocs\cve\sass\/portada */
   .destacado-portada a {
     display: block; }
-    /* line 137, C:\htdocs\cve\sass\/portada */
+    /* line 137, c:\htdocs\cve\sass\/portada */
     .destacado-portada a:link, .destacado-portada a:visited {
       color: #404041; }
-      /* line 139, C:\htdocs\cve\sass\/portada */
+      /* line 139, c:\htdocs\cve\sass\/portada */
       .destacado-portada a:link h3, .destacado-portada a:visited h3 {
         color: #231F20;
         border-bottom: 1px dotted transparent; }
-        /* line 142, C:\htdocs\cve\sass\/portada */
+        /* line 142, c:\htdocs\cve\sass\/portada */
         .destacado-portada a:link h3:after, .destacado-portada a:visited h3:after {
           margin-left: 0.25em;
           opacity: 0; }
-      /* line 148, C:\htdocs\cve\sass\/portada */
+      /* line 148, c:\htdocs\cve\sass\/portada */
       .destacado-portada a:link .bajada:after, .destacado-portada a:visited .bajada:after {
         opacity: 0; }
-    /* line 154, C:\htdocs\cve\sass\/portada */
+    /* line 154, c:\htdocs\cve\sass\/portada */
     .destacado-portada a:hover h3, .destacado-portada a:active h3 {
       color: #B61E2D;
       border-bottom: 1px dotted #C8CACB; }
-      /* line 157, C:\htdocs\cve\sass\/portada */
+      /* line 157, c:\htdocs\cve\sass\/portada */
       .destacado-portada a:hover h3:after, .destacado-portada a:active h3:after {
         margin-left: 0.75em;
         opacity: 1; }
-    /* line 163, C:\htdocs\cve\sass\/portada */
+    /* line 163, c:\htdocs\cve\sass\/portada */
     .destacado-portada a:hover .bajada:after, .destacado-portada a:active .bajada:after {
       opacity: 1; }
-  /* line 172, C:\htdocs\cve\sass\/portada */
+  /* line 172, c:\htdocs\cve\sass\/portada */
   .destacado-portada .holder {
     background-color: #ECEBE8;
     border-top: 1px solid #C8CACB; }
-  /* line 176, C:\htdocs\cve\sass\/portada */
+  /* line 176, c:\htdocs\cve\sass\/portada */
   .destacado-portada .literal {
     padding-left: 16px; }
-  /* line 179, C:\htdocs\cve\sass\/portada */
+  /* line 179, c:\htdocs\cve\sass\/portada */
   .destacado-portada h3 {
     font-family: Georgia, Constantia, "DejaVu Serif", serif;
     font-weight: normal; }
-    /* line 182, C:\htdocs\cve\sass\/portada */
+    /* line 182, c:\htdocs\cve\sass\/portada */
     .destacado-portada h3:after {
       font-size: 0.75em;
       margin-left: 0.25em;
       -webkit-transition: margin-left 0.75s ease-out, opacity 0.4s linear;
       transition: margin-left 0.75s ease-out, opacity 0.4s linear; }
-  /* line 188, C:\htdocs\cve\sass\/portada */
+  /* line 188, c:\htdocs\cve\sass\/portada */
   .destacado-portada .bajada {
     font-size: 0.8125em; }
-    /* line 190, C:\htdocs\cve\sass\/portada */
+    /* line 190, c:\htdocs\cve\sass\/portada */
     .destacado-portada .bajada:after {
       content: 'Ver más ...';
       font-family: Georgia, Constantia, "DejaVu Serif", serif;
@@ -1887,42 +1888,42 @@ h2 {
       opacity: 0;
       -webkit-transition: opacity 0.5s linear;
       transition: opacity 0.5s linear; }
-  /* line 199, C:\htdocs\cve\sass\/portada */
+  /* line 199, c:\htdocs\cve\sass\/portada */
   .destacado-portada img {
     display: block; }
-  /* line 203, C:\htdocs\cve\sass\/portada */
+  /* line 203, c:\htdocs\cve\sass\/portada */
   .destacado-portada time:before {
     margin-right: 0.5em; }
 
-/* line 208, C:\htdocs\cve\sass\/portada */
+/* line 208, c:\htdocs\cve\sass\/portada */
 .contenidos-generales {
   border-top: 1px solid #C8CACB;
   margin-top: 56px; }
-  /* line 211, C:\htdocs\cve\sass\/portada */
+  /* line 211, c:\htdocs\cve\sass\/portada */
   .contenidos-generales .noticias {
     position: relative; }
-    /* line 213, C:\htdocs\cve\sass\/portada */
+    /* line 213, c:\htdocs\cve\sass\/portada */
     .contenidos-generales .noticias h2 {
       position: absolute;
       top: -64px;
       left: 32px;
       font-size: 27px; }
 
-/* line 221, C:\htdocs\cve\sass\/portada */
+/* line 221, c:\htdocs\cve\sass\/portada */
 .colaboradores {
   margin-top: 32px;
   margin-bottom: 32px; }
 
-/* line 2, C:\htdocs\cve\sass\/layout */
+/* line 2, c:\htdocs\cve\sass\/layout */
 .pagina main.main {
   float: right;
   min-height: 400px; }
 
-/* line 8, C:\htdocs\cve\sass\/layout */
+/* line 8, c:\htdocs\cve\sass\/layout */
 .corporis {
   padding-top: 16px; }
 
-/* line 12, C:\htdocs\cve\sass\/layout */
+/* line 12, c:\htdocs\cve\sass\/layout */
 aside h2 {
   display: block;
   background-color: #404041;
@@ -1937,7 +1938,7 @@ aside h2 {
   padding-left: 16px;
   margin-right: -16px;
   position: relative; }
-  /* line 26, C:\htdocs\cve\sass\/layout */
+  /* line 26, c:\htdocs\cve\sass\/layout */
   aside h2:after {
     content: ' ';
     width: 0px;
@@ -1947,57 +1948,57 @@ aside h2 {
     right: -38px;
     border: 19px solid transparent;
     border-left-color: #404041; }
-  /* line 36, C:\htdocs\cve\sass\/layout */
+  /* line 36, c:\htdocs\cve\sass\/layout */
   .columna aside h2 {
     padding-left: 16px;
     margin-right: 0;
     margin-left: -16px;
     padding-right: 0; }
-    /* line 41, C:\htdocs\cve\sass\/layout */
+    /* line 41, c:\htdocs\cve\sass\/layout */
     .columna aside h2:after {
       right: auto;
       left: -38px;
       border-left-color: transparent;
       border-right-color: #404041; }
-/* line 51, C:\htdocs\cve\sass\/layout */
+/* line 51, c:\htdocs\cve\sass\/layout */
 .premio-cve aside.destacado-lateral h2 {
   background-color: #B61E2D; }
-/* line 55, C:\htdocs\cve\sass\/layout */
+/* line 55, c:\htdocs\cve\sass\/layout */
 .premio-cve .columna aside.destacado-lateral h2:after {
   border-right-color: #B61E2D; }
-/* line 57, C:\htdocs\cve\sass\/layout */
+/* line 57, c:\htdocs\cve\sass\/layout */
 .premio-pyme aside.destacado-lateral h2 {
   background-color: #3CB5A9; }
-/* line 61, C:\htdocs\cve\sass\/layout */
+/* line 61, c:\htdocs\cve\sass\/layout */
 .premio-pyme .columna aside.destacado-lateral h2:after {
   border-right-color: #3CB5A9; }
-/* line 63, C:\htdocs\cve\sass\/layout */
+/* line 63, c:\htdocs\cve\sass\/layout */
 .catedra aside.destacado-lateral h2 {
   background-color: #4E8BC7; }
-/* line 67, C:\htdocs\cve\sass\/layout */
+/* line 67, c:\htdocs\cve\sass\/layout */
 .catedra .columna aside.destacado-lateral h2:after {
   border-right-color: #4E8BC7; }
-/* line 70, C:\htdocs\cve\sass\/layout */
+/* line 70, c:\htdocs\cve\sass\/layout */
 aside.destacado-lateral > ul, aside.destacado-lateral .contenedor {
   margin: 16px 0; }
-/* line 74, C:\htdocs\cve\sass\/layout */
+/* line 74, c:\htdocs\cve\sass\/layout */
 aside > ul {
   margin-top: 0.25em;
   padding: 0; }
-  /* line 77, C:\htdocs\cve\sass\/layout */
+  /* line 77, c:\htdocs\cve\sass\/layout */
   aside > ul li {
     list-style: none; }
-/* line 81, C:\htdocs\cve\sass\/layout */
+/* line 81, c:\htdocs\cve\sass\/layout */
 aside img {
   display: block; }
-/* line 84, C:\htdocs\cve\sass\/layout */
+/* line 84, c:\htdocs\cve\sass\/layout */
 aside.encabezado-seccion {
   position: relative;
   margin-bottom: 16px; }
-  /* line 87, C:\htdocs\cve\sass\/layout */
+  /* line 87, c:\htdocs\cve\sass\/layout */
   aside.encabezado-seccion .sobre-premio {
     margin-top: -26.5%; }
-  /* line 90, C:\htdocs\cve\sass\/layout */
+  /* line 90, c:\htdocs\cve\sass\/layout */
   aside.encabezado-seccion h4.pyme {
     padding: 16px;
     margin-bottom: 0;
@@ -2008,100 +2009,100 @@ aside.encabezado-seccion {
     bottom: 0;
     left: 0; }
 
-/* line 103, C:\htdocs\cve\sass\/layout */
+/* line 103, c:\htdocs\cve\sass\/layout */
 .colaboradores {
   padding: 0; }
-  /* line 105, C:\htdocs\cve\sass\/layout */
+  /* line 105, c:\htdocs\cve\sass\/layout */
   .colaboradores li {
     list-style: none; }
 
-/* line 110, C:\htdocs\cve\sass\/layout */
+/* line 110, c:\htdocs\cve\sass\/layout */
 footer {
   background-color: #E6E5E4;
   border-bottom: 32px solid #C8CACB;
   padding-top: 32px;
   padding-bottom: 32px; }
-  /* line 115, C:\htdocs\cve\sass\/layout */
+  /* line 115, c:\htdocs\cve\sass\/layout */
   footer address {
     font-style: normal;
     font-size: 0.8125em; }
-    /* line 118, C:\htdocs\cve\sass\/layout */
+    /* line 118, c:\htdocs\cve\sass\/layout */
     footer address p {
       margin-top: 0;
       margin-bottom: 0.5em; }
-    /* line 122, C:\htdocs\cve\sass\/layout */
+    /* line 122, c:\htdocs\cve\sass\/layout */
     footer address a {
       font-weight: 700; }
-      /* line 124, C:\htdocs\cve\sass\/layout */
+      /* line 124, c:\htdocs\cve\sass\/layout */
       footer address a:link, footer address a:visited {
         color: #404041; }
-      /* line 127, C:\htdocs\cve\sass\/layout */
+      /* line 127, c:\htdocs\cve\sass\/layout */
       footer address a:hover, footer address a:active {
         color: #B61E2D; }
-  /* line 133, C:\htdocs\cve\sass\/layout */
+  /* line 133, c:\htdocs\cve\sass\/layout */
   footer .datos-contacto h4 {
     font-size: 0.8125em;
     font-weight: 400;
     margin: 0; }
-  /* line 139, C:\htdocs\cve\sass\/layout */
+  /* line 139, c:\htdocs\cve\sass\/layout */
   footer .telefono {
     font-size: 16px; }
-    /* line 142, C:\htdocs\cve\sass\/layout */
+    /* line 142, c:\htdocs\cve\sass\/layout */
     footer .telefono a:link, footer .telefono a:visited {
       text-decoration: none; }
-    /* line 145, C:\htdocs\cve\sass\/layout */
+    /* line 145, c:\htdocs\cve\sass\/layout */
     footer .telefono a:hover, footer .telefono a:active {
       text-decoration: underline; }
-  /* line 151, C:\htdocs\cve\sass\/layout */
+  /* line 151, c:\htdocs\cve\sass\/layout */
   footer .email a {
     font-weight: 600; }
-    /* line 153, C:\htdocs\cve\sass\/layout */
+    /* line 153, c:\htdocs\cve\sass\/layout */
     footer .email a:link, footer .email a:visited {
       text-decoration: underline; }
-    /* line 156, C:\htdocs\cve\sass\/layout */
+    /* line 156, c:\htdocs\cve\sass\/layout */
     footer .email a:hover, footer .email a:active {
       text-decoration: none; }
-  /* line 161, C:\htdocs\cve\sass\/layout */
+  /* line 161, c:\htdocs\cve\sass\/layout */
   footer .logo-pie {
     max-width: 205px; }
 
-/* line 2, C:\htdocs\cve\sass\/calendario */
+/* line 2, c:\htdocs\cve\sass\/calendario */
 .calendario .evento {
   background-position: 0 0;
   margin-left: 16px; }
-  /* line 5, C:\htdocs\cve\sass\/calendario */
+  /* line 5, c:\htdocs\cve\sass\/calendario */
   .calendario .evento:first-child {
     background-position: 0 -10px; }
-  /* line 9, C:\htdocs\cve\sass\/calendario */
+  /* line 9, c:\htdocs\cve\sass\/calendario */
   .calendario .evento a {
     display: block; }
-    /* line 11, C:\htdocs\cve\sass\/calendario */
+    /* line 11, c:\htdocs\cve\sass\/calendario */
     .calendario .evento a:link, .calendario .evento a:visited {
       color: #58595B;
       text-decoration: none; }
-      /* line 14, C:\htdocs\cve\sass\/calendario */
+      /* line 14, c:\htdocs\cve\sass\/calendario */
       .calendario .evento a:link time, .calendario .evento a:visited time {
         color: #B61E2D;
         border-color: #6D6E70; }
-        /* line 17, C:\htdocs\cve\sass\/calendario */
+        /* line 17, c:\htdocs\cve\sass\/calendario */
         .calendario .evento a:link time:before, .calendario .evento a:link time:after, .calendario .evento a:visited time:before, .calendario .evento a:visited time:after {
           background-color: #6D6E70; }
-      /* line 21, C:\htdocs\cve\sass\/calendario */
+      /* line 21, c:\htdocs\cve\sass\/calendario */
       .calendario .evento a:link .mes, .calendario .evento a:visited .mes {
         color: #231F20; }
-    /* line 25, C:\htdocs\cve\sass\/calendario */
+    /* line 25, c:\htdocs\cve\sass\/calendario */
     .calendario .evento a:hover, .calendario .evento a:active {
       color: #B61E2D; }
-      /* line 27, C:\htdocs\cve\sass\/calendario */
+      /* line 27, c:\htdocs\cve\sass\/calendario */
       .calendario .evento a:hover .mes, .calendario .evento a:active .mes {
         color: #231F20; }
-      /* line 30, C:\htdocs\cve\sass\/calendario */
+      /* line 30, c:\htdocs\cve\sass\/calendario */
       .calendario .evento a:hover time, .calendario .evento a:active time {
         border-color: #C8CACB; }
-        /* line 32, C:\htdocs\cve\sass\/calendario */
+        /* line 32, c:\htdocs\cve\sass\/calendario */
         .calendario .evento a:hover time:before, .calendario .evento a:hover time:after, .calendario .evento a:active time:before, .calendario .evento a:active time:after {
           background-color: #C8CACB; }
-  /* line 41, C:\htdocs\cve\sass\/calendario */
+  /* line 41, c:\htdocs\cve\sass\/calendario */
   .calendario .evento time {
     display: inline-block;
     margin: 16px;
@@ -2113,7 +2114,7 @@ footer {
     border-radius: 4px;
     border: 4px solid #C8CACB;
     position: relative; }
-    /* line 51, C:\htdocs\cve\sass\/calendario */
+    /* line 51, c:\htdocs\cve\sass\/calendario */
     .calendario .evento time:before, .calendario .evento time:after {
       content: ' ';
       display: block;
@@ -2125,11 +2126,11 @@ footer {
       -webkit-border-radius: 2px;
       border-radius: 2px;
       background-color: #C8CACB; }
-    /* line 62, C:\htdocs\cve\sass\/calendario */
+    /* line 62, c:\htdocs\cve\sass\/calendario */
     .calendario .evento time:after {
       left: auto;
       right: 10px; }
-    /* line 66, C:\htdocs\cve\sass\/calendario */
+    /* line 66, c:\htdocs\cve\sass\/calendario */
     .calendario .evento time .dia {
       display: block;
       text-align: center;
@@ -2138,13 +2139,13 @@ footer {
       font-weight: 700;
       font-size: 1.3125em;
       border-bottom: 1px solid #C8CACB; }
-    /* line 75, C:\htdocs\cve\sass\/calendario */
+    /* line 75, c:\htdocs\cve\sass\/calendario */
     .calendario .evento time .mes {
       display: block;
       text-align: center;
       font-size: 0.6875em;
       text-transform: uppercase; }
-  /* line 82, C:\htdocs\cve\sass\/calendario */
+  /* line 82, c:\htdocs\cve\sass\/calendario */
   .calendario .evento .descripcion {
     font-size: 0.8125em;
     display: inline-block;
@@ -2154,223 +2155,223 @@ footer {
     font-weight: 400;
     margin-top: 16px; }
 
-/* line 2, C:\htdocs\cve\sass\/practicas */
+/* line 2, c:\htdocs\cve\sass\/practicas */
 .destacado-lateral > ul {
   font-size: 0.8125em;
   padding-left: 16px; }
-/* line 6, C:\htdocs\cve\sass\/practicas */
+/* line 6, c:\htdocs\cve\sass\/practicas */
 .destacado-lateral li {
   padding-left: 0;
   padding-bottom: 1em;
   padding-top: 1em; }
-  /* line 11, C:\htdocs\cve\sass\/practicas */
+  /* line 11, c:\htdocs\cve\sass\/practicas */
   .destacado-lateral li.separa:first-child {
     background: none; }
-/* line 16, C:\htdocs\cve\sass\/practicas */
+/* line 16, c:\htdocs\cve\sass\/practicas */
 .destacado-lateral a {
   display: block; }
-  /* line 18, C:\htdocs\cve\sass\/practicas */
+  /* line 18, c:\htdocs\cve\sass\/practicas */
   .destacado-lateral a:link, .destacado-lateral a:visited {
     color: #404041; }
-    /* line 20, C:\htdocs\cve\sass\/practicas */
+    /* line 20, c:\htdocs\cve\sass\/practicas */
     .destacado-lateral a:link h3, .destacado-lateral a:visited h3 {
       color: #404041;
       text-decoration: none; }
-    /* line 24, C:\htdocs\cve\sass\/practicas */
+    /* line 24, c:\htdocs\cve\sass\/practicas */
     .destacado-lateral a:link img, .destacado-lateral a:visited img {
       border: 1px solid transparent; }
-  /* line 29, C:\htdocs\cve\sass\/practicas */
+  /* line 29, c:\htdocs\cve\sass\/practicas */
   .destacado-lateral a:hover h3, .destacado-lateral a:active h3 {
     color: #B61E2D; }
-  /* line 32, C:\htdocs\cve\sass\/practicas */
+  /* line 32, c:\htdocs\cve\sass\/practicas */
   .destacado-lateral a:hover img, .destacado-lateral a:active img {
     border: 1px solid #6D6E70; }
-/* line 37, C:\htdocs\cve\sass\/practicas */
+/* line 37, c:\htdocs\cve\sass\/practicas */
 .destacado-lateral img {
   display: block;
   margin-top: 4px;
   max-width: 57px;
   -webkit-transition: border-color 0.5s linear;
   transition: border-color 0.5s linear; }
-/* line 43, C:\htdocs\cve\sass\/practicas */
+/* line 43, c:\htdocs\cve\sass\/practicas */
 .destacado-lateral h3 {
   font-size: 1.0769em;
   line-height: 1.25em;
   margin: 0 0 0.0625em 0;
   font-weight: 600; }
-/* line 49, C:\htdocs\cve\sass\/practicas */
+/* line 49, c:\htdocs\cve\sass\/practicas */
 .destacado-lateral p {
   margin: 0; }
 
-/* line 1, C:\htdocs\cve\sass\/noticias */
+/* line 1, c:\htdocs\cve\sass\/noticias */
 .noticias {
   font-size: 0.8125em; }
-  /* line 3, C:\htdocs\cve\sass\/noticias */
+  /* line 3, c:\htdocs\cve\sass\/noticias */
   .noticias article {
     margin-bottom: 16px;
     background-color: #ECEBE8; }
-    /* line 6, C:\htdocs\cve\sass\/noticias */
+    /* line 6, c:\htdocs\cve\sass\/noticias */
     .noticias article > a {
       display: block;
       color: #404041;
       -webkit-transition: border-color 0.5s ease-out;
       transition: border-color 0.5s ease-out;
       border: 1px solid transparent; }
-      /* line 11, C:\htdocs\cve\sass\/noticias */
+      /* line 11, c:\htdocs\cve\sass\/noticias */
       .noticias article > a:link, .noticias article > a:visited {
         color: #404041;
         border-color: transparent; }
-        /* line 14, C:\htdocs\cve\sass\/noticias */
+        /* line 14, c:\htdocs\cve\sass\/noticias */
         .noticias article > a:link h3, .noticias article > a:visited h3 {
           color: #231F20; }
-      /* line 18, C:\htdocs\cve\sass\/noticias */
+      /* line 18, c:\htdocs\cve\sass\/noticias */
       .noticias article > a:hover, .noticias article > a:active {
         color: black;
         border-color: #AAA; }
-        /* line 21, C:\htdocs\cve\sass\/noticias */
+        /* line 21, c:\htdocs\cve\sass\/noticias */
         .noticias article > a:hover h3, .noticias article > a:active h3 {
           color: black;
           text-decoration: underline; }
-      /* line 26, C:\htdocs\cve\sass\/noticias */
+      /* line 26, c:\htdocs\cve\sass\/noticias */
       .noticias article > a img {
         display: block; }
-  /* line 31, C:\htdocs\cve\sass\/noticias */
+  /* line 31, c:\htdocs\cve\sass\/noticias */
   .noticias figure {
     padding: 0;
     border: 0;
     display: block; }
-  /* line 36, C:\htdocs\cve\sass\/noticias */
+  /* line 36, c:\htdocs\cve\sass\/noticias */
   .noticias .noticia-titulo {
     font-size: 1.23em;
     font-weight: 400;
     color: #231F20;
     line-height: 1.25em; }
-  /* line 42, C:\htdocs\cve\sass\/noticias */
+  /* line 42, c:\htdocs\cve\sass\/noticias */
   .noticias .noticia-bajada {
     line-height: 1.25em;
     margin-top: 0; }
-  /* line 46, C:\htdocs\cve\sass\/noticias */
+  /* line 46, c:\htdocs\cve\sass\/noticias */
   .noticias .noticia-sub-literal {
     max-height: 138px;
     overflow: hidden; }
-  /* line 50, C:\htdocs\cve\sass\/noticias */
+  /* line 50, c:\htdocs\cve\sass\/noticias */
   .noticias hr.noticia-separa {
     margin-right: -16px; }
-  /* line 53, C:\htdocs\cve\sass\/noticias */
+  /* line 53, c:\htdocs\cve\sass\/noticias */
   .noticias .fecha {
     margin-left: 17px; }
-  /* line 56, C:\htdocs\cve\sass\/noticias */
+  /* line 56, c:\htdocs\cve\sass\/noticias */
   .noticias time:before {
     margin-right: 0.5em; }
 
-/* line 60, C:\htdocs\cve\sass\/noticias */
+/* line 60, c:\htdocs\cve\sass\/noticias */
 .main.noticia-interior h1 {
   font-size: 2.308em;
   margin: 0; }
 
-/* line 66, C:\htdocs\cve\sass\/noticias */
+/* line 66, c:\htdocs\cve\sass\/noticias */
 .entry-excerpt {
   font-size: 17px;
   font-family: "Open Sans"; }
 
-/* line 71, C:\htdocs\cve\sass\/noticias */
+/* line 71, c:\htdocs\cve\sass\/noticias */
 .entry-meta {
   font-size: 12px;
   font-family: "Open Sans"; }
 
-/* line 76, C:\htdocs\cve\sass\/noticias */
+/* line 76, c:\htdocs\cve\sass\/noticias */
 .entry-image {
   border: 10px solid #ECEBE8;
   margin-left: 16px; }
 
 @media (min-width: 776px) {
-  /* line 84, C:\htdocs\cve\sass\/noticias */
+  /* line 84, c:\htdocs\cve\sass\/noticias */
   .noticia-par [class*='col-'] {
     float: right;
     padding-right: 16px; }
-  /* line 93, C:\htdocs\cve\sass\/noticias */
+  /* line 93, c:\htdocs\cve\sass\/noticias */
   .noticias .noticia-par hr.noticia-separa {
     margin-left: -16px;
     margin-right: 0; } }
 
-/* line 1, C:\htdocs\cve\sass\/cuerpo */
+/* line 1, c:\htdocs\cve\sass\/cuerpo */
 .main {
   font-weight: 400;
   font-size: 0.8125em; }
-  /* line 4, C:\htdocs\cve\sass\/cuerpo */
+  /* line 4, c:\htdocs\cve\sass\/cuerpo */
   .main h1, .main h2, .main h3, .main h4, .main h5, .main h6, .main p {
     margin-left: 16px; }
-  /* line 7, C:\htdocs\cve\sass\/cuerpo */
+  /* line 7, c:\htdocs\cve\sass\/cuerpo */
   .main h1, .main h2, .main h3, .main h4, .main h5, .main h6 {
     font-family: Georgia, Constantia, "DejaVu Serif", serif;
     font-weight: normal; }
-  /* line 11, C:\htdocs\cve\sass\/cuerpo */
+  /* line 11, c:\htdocs\cve\sass\/cuerpo */
   .main h1, .main h2, .main h3, .main h4, .main h5, .main h6 {
     color: #B61E2D; }
-    /* line 13, C:\htdocs\cve\sass\/cuerpo */
+    /* line 13, c:\htdocs\cve\sass\/cuerpo */
     .premio-pyme .main h1, .premio-pyme .main h2, .premio-pyme .main h3, .premio-pyme .main h4, .premio-pyme .main h5, .premio-pyme .main h6 {
       color: #3CB5A9; }
-    /* line 16, C:\htdocs\cve\sass\/cuerpo */
+    /* line 16, c:\htdocs\cve\sass\/cuerpo */
     .premio-cve .main h1, .premio-cve .main h2, .premio-cve .main h3, .premio-cve .main h4, .premio-cve .main h5, .premio-cve .main h6 {
       color: #B61E2D; }
-    /* line 19, C:\htdocs\cve\sass\/cuerpo */
+    /* line 19, c:\htdocs\cve\sass\/cuerpo */
     .catedra .main h1, .catedra .main h2, .catedra .main h3, .catedra .main h4, .catedra .main h5, .catedra .main h6 {
       color: #4E8BC7; }
-  /* line 23, C:\htdocs\cve\sass\/cuerpo */
+  /* line 23, c:\htdocs\cve\sass\/cuerpo */
   .main h1 {
     font-size: 2.0769em; }
-  /* line 26, C:\htdocs\cve\sass\/cuerpo */
+  /* line 26, c:\htdocs\cve\sass\/cuerpo */
   .main h2 {
     font-size: 2em; }
-  /* line 29, C:\htdocs\cve\sass\/cuerpo */
+  /* line 29, c:\htdocs\cve\sass\/cuerpo */
   .main h3 {
     font-size: 1.6923em; }
-  /* line 32, C:\htdocs\cve\sass\/cuerpo */
+  /* line 32, c:\htdocs\cve\sass\/cuerpo */
   .main h4 {
     font-size: 1.3846em; }
-  /* line 35, C:\htdocs\cve\sass\/cuerpo */
+  /* line 35, c:\htdocs\cve\sass\/cuerpo */
   .main h5 {
     font-size: 1.23em; }
-  /* line 38, C:\htdocs\cve\sass\/cuerpo */
+  /* line 38, c:\htdocs\cve\sass\/cuerpo */
   .main h6 {
     font-size: 1.125em; }
-  /* line 41, C:\htdocs\cve\sass\/cuerpo */
+  /* line 41, c:\htdocs\cve\sass\/cuerpo */
   .main header {
     background-color: #B61E2D;
     border: 1px solid #B61E2D;
     font-size: 1em; }
-    /* line 47, C:\htdocs\cve\sass\/cuerpo */
+    /* line 47, c:\htdocs\cve\sass\/cuerpo */
     .premio-pyme .main header {
       background-color: #3CB5A9;
       border: 1px solid #3CB5A9; }
-    /* line 51, C:\htdocs\cve\sass\/cuerpo */
+    /* line 51, c:\htdocs\cve\sass\/cuerpo */
     .premio-cve .main header {
       background-color: #B61E2D;
       border: 1px solid #B61E2D; }
-    /* line 55, C:\htdocs\cve\sass\/cuerpo */
+    /* line 55, c:\htdocs\cve\sass\/cuerpo */
     .catedra .main header {
       background-color: #4E8BC7;
       border: 1px solid #4E8BC7; }
-    /* line 59, C:\htdocs\cve\sass\/cuerpo */
+    /* line 59, c:\htdocs\cve\sass\/cuerpo */
     .main header p {
       color: #E6E5E4; }
-    /* line 63, C:\htdocs\cve\sass\/cuerpo */
+    /* line 63, c:\htdocs\cve\sass\/cuerpo */
     .main header h1, .main header p {
       color: white;
       margin-right: 16px; }
-  /* line 68, C:\htdocs\cve\sass\/cuerpo */
+  /* line 68, c:\htdocs\cve\sass\/cuerpo */
   .main .bajada {
     font-size: 1.1538em; }
-  /* line 71, C:\htdocs\cve\sass\/cuerpo */
+  /* line 71, c:\htdocs\cve\sass\/cuerpo */
   .main blockquote {
     font-family: Georgia, Constantia, "DejaVu Serif", serif;
     font-style: italic;
     color: #58595B;
     font-size: 1.1538em; }
-  /* line 77, C:\htdocs\cve\sass\/cuerpo */
+  /* line 77, c:\htdocs\cve\sass\/cuerpo */
   .main .destacado {
     padding: 0; }
-    /* line 79, C:\htdocs\cve\sass\/cuerpo */
+    /* line 79, c:\htdocs\cve\sass\/cuerpo */
     .main .destacado [class*='columna-'] {
       background-color: #3CB5A9;
       color: white;
@@ -2380,10 +2381,10 @@ footer {
       font-size: 13px;
       vertical-align: top;
       position: relative; }
-      /* line 88, C:\htdocs\cve\sass\/cuerpo */
+      /* line 88, c:\htdocs\cve\sass\/cuerpo */
       .main .destacado [class*='columna-']:first-child {
         border-left: none; }
-      /* line 91, C:\htdocs\cve\sass\/cuerpo */
+      /* line 91, c:\htdocs\cve\sass\/cuerpo */
       .main .destacado [class*='columna-']:before {
         content: ' ';
         position: absolute;
@@ -2393,37 +2394,37 @@ footer {
         height: 0;
         border: 15px solid transparent;
         border-top-color: white; }
-    /* line 102, C:\htdocs\cve\sass\/cuerpo */
+    /* line 102, c:\htdocs\cve\sass\/cuerpo */
     .main .destacado header {
       border-bottom: 1px solid white;
       margin: 4px -16px;
       padding: 0 16px; }
-    /* line 107, C:\htdocs\cve\sass\/cuerpo */
+    /* line 107, c:\htdocs\cve\sass\/cuerpo */
     .main .destacado h1, .main .destacado h2, .main .destacado h3, .main .destacado h4, .main .destacado h5, .main .destacado h6 {
       color: white;
       margin: 0;
       margin-bottom: 0.125em;
       padding-left: 0; }
-    /* line 113, C:\htdocs\cve\sass\/cuerpo */
+    /* line 113, c:\htdocs\cve\sass\/cuerpo */
     .main .destacado ul, .main .destacado ol, .main .destacado p {
       font-size: 1.1538em;
       padding: 0; }
-    /* line 117, C:\htdocs\cve\sass\/cuerpo */
+    /* line 117, c:\htdocs\cve\sass\/cuerpo */
     .main .destacado ul, .main .destacado ol {
       list-style-position: inside; }
-    /* line 120, C:\htdocs\cve\sass\/cuerpo */
+    /* line 120, c:\htdocs\cve\sass\/cuerpo */
     .main .destacado figcaption {
       font-weight: bold; }
-  /* line 124, C:\htdocs\cve\sass\/cuerpo */
+  /* line 124, c:\htdocs\cve\sass\/cuerpo */
   .main .coleccion {
     padding-top: 16px; }
-    /* line 126, C:\htdocs\cve\sass\/cuerpo */
+    /* line 126, c:\htdocs\cve\sass\/cuerpo */
     .main .coleccion article {
       margin-bottom: 16px; }
-      /* line 129, C:\htdocs\cve\sass\/cuerpo */
+      /* line 129, c:\htdocs\cve\sass\/cuerpo */
       .main .coleccion article.video figure {
         position: relative; }
-        /* line 131, C:\htdocs\cve\sass\/cuerpo */
+        /* line 131, c:\htdocs\cve\sass\/cuerpo */
         .main .coleccion article.video figure:before {
           font-family: 'icomoon';
           speak: none;
@@ -2450,48 +2451,48 @@ footer {
           border-radius: 40px;
           opacity: 0.8; }
 
-/* line 165, C:\htdocs\cve\sass\/cuerpo */
+/* line 165, c:\htdocs\cve\sass\/cuerpo */
 .pagina.premio-cve .main > .contenido h1, .pagina.premio-cve .main > .contenido h2, .pagina.premio-cve .main > .contenido h3, .pagina.premio-cve .main > .contenido h4, .pagina.premio-cve .main > .contenido h5, .pagina.premio-cve .main > .contenido h6 {
   color: #B61E2D; }
-/* line 169, C:\htdocs\cve\sass\/cuerpo */
+/* line 169, c:\htdocs\cve\sass\/cuerpo */
 .pagina.premio-cve .main > .contenido .destacado h1, .pagina.premio-cve .main > .contenido .destacado h2, .pagina.premio-cve .main > .contenido .destacado h3, .pagina.premio-cve .main > .contenido .destacado h4, .pagina.premio-cve .main > .contenido .destacado h5, .pagina.premio-cve .main > .contenido .destacado h6 {
   color: white; }
-/* line 177, C:\htdocs\cve\sass\/cuerpo */
+/* line 177, c:\htdocs\cve\sass\/cuerpo */
 .pagina.premio-pyme .main > .contenido h1, .pagina.premio-pyme .main > .contenido h2, .pagina.premio-pyme .main > .contenido h3, .pagina.premio-pyme .main > .contenido h4, .pagina.premio-pyme .main > .contenido h5, .pagina.premio-pyme .main > .contenido h6 {
   color: #027977; }
-/* line 181, C:\htdocs\cve\sass\/cuerpo */
+/* line 181, c:\htdocs\cve\sass\/cuerpo */
 .pagina.premio-pyme .main > .contenido .destacado h1, .pagina.premio-pyme .main > .contenido .destacado h2, .pagina.premio-pyme .main > .contenido .destacado h3, .pagina.premio-pyme .main > .contenido .destacado h4, .pagina.premio-pyme .main > .contenido .destacado h5, .pagina.premio-pyme .main > .contenido .destacado h6 {
   color: white; }
-/* line 189, C:\htdocs\cve\sass\/cuerpo */
+/* line 189, c:\htdocs\cve\sass\/cuerpo */
 .pagina.catedra .main > .contenido h1, .pagina.catedra .main > .contenido h2, .pagina.catedra .main > .contenido h3, .pagina.catedra .main > .contenido h4, .pagina.catedra .main > .contenido h5, .pagina.catedra .main > .contenido h6 {
   color: #33699B; }
-/* line 193, C:\htdocs\cve\sass\/cuerpo */
+/* line 193, c:\htdocs\cve\sass\/cuerpo */
 .pagina.catedra .main > .contenido .destacado h1, .pagina.catedra .main > .contenido .destacado h2, .pagina.catedra .main > .contenido .destacado h3, .pagina.catedra .main > .contenido .destacado h4, .pagina.catedra .main > .contenido .destacado h5, .pagina.catedra .main > .contenido .destacado h6 {
   color: white; }
 
-/* line 201, C:\htdocs\cve\sass\/cuerpo */
+/* line 201, c:\htdocs\cve\sass\/cuerpo */
 .programa {
   margin: 16px; }
-  /* line 203, C:\htdocs\cve\sass\/cuerpo */
+  /* line 203, c:\htdocs\cve\sass\/cuerpo */
   .programa .grid {
     margin-left: -16px;
     border-bottom: 1px solid #C8CACB;
     margin-bottom: 4px;
     padding-bottom: 4px; }
-  /* line 209, C:\htdocs\cve\sass\/cuerpo */
+  /* line 209, c:\htdocs\cve\sass\/cuerpo */
   .programa .numero {
     font-weight: bold; }
 
 @media (min-width: 900px) {
-  /* line 215, C:\htdocs\cve\sass\/cuerpo */
+  /* line 215, c:\htdocs\cve\sass\/cuerpo */
   main.main {
     padding-left: 8px; }
-  /* line 218, C:\htdocs\cve\sass\/cuerpo */
+  /* line 218, c:\htdocs\cve\sass\/cuerpo */
   .coleccion {
     margin-right: -16px;
     font-size: 0;
     min-height: 400px; }
-    /* line 222, C:\htdocs\cve\sass\/cuerpo */
+    /* line 222, c:\htdocs\cve\sass\/cuerpo */
     .coleccion article {
       -webkit-box-sizing: border-box;
       -moz-box-sizing: border-box;
@@ -2501,35 +2502,35 @@ footer {
       display: inline-block;
       vertical-align: top;
       font-size: 13px; }
-      /* line 229, C:\htdocs\cve\sass\/cuerpo */
+      /* line 229, c:\htdocs\cve\sass\/cuerpo */
       .coleccion article figure {
         border: none;
         padding: 0; }
-      /* line 233, C:\htdocs\cve\sass\/cuerpo */
+      /* line 233, c:\htdocs\cve\sass\/cuerpo */
       .coleccion article h4 {
         font-family: "Open Sans", Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
         font-weight: 600;
         font-size: 16px;
         margin: 0;
         color: #6D6E70; }
-      /* line 240, C:\htdocs\cve\sass\/cuerpo */
+      /* line 240, c:\htdocs\cve\sass\/cuerpo */
       .coleccion article p {
         margin: 0;
         color: #6D6E70;
         min-height: 40px;
         padding-bottom: 4px;
         border-bottom: 1px solid #C8CACB; }
-        /* line 246, C:\htdocs\cve\sass\/cuerpo */
+        /* line 246, c:\htdocs\cve\sass\/cuerpo */
         .coleccion article p.bajada {
           font-size: 14px; } }
 
 @media (min-width: 600px) { }
 
-/* line 35, C:\htdocs\cve\sass\styles.scss */
+/* line 35, c:\htdocs\cve\sass\styles.scss */
 .wrapper {
   max-width: 1010px;
   margin: 0 auto; }
-  /* line 38, C:\htdocs\cve\sass\styles.scss */
+  /* line 38, c:\htdocs\cve\sass\styles.scss */
   .wrapper.wide {
     max-width: 1140px; }
 
